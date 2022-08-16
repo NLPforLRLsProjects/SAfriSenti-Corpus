@@ -4,6 +4,8 @@ This corpus include the following languages: Code-switched Dataset, English, Sep
 We are working on extending the corpus to more languages like IsiZulu, Ndebele, Xhosa, Tshonga, Venda and Afrikaans
 We aim to release the dataset in December 2022
 
+# SAfriSenti-Corpus Lisences
+
 # SAfriSenti-Corpus Focus
 
 # Training Data
