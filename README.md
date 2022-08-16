@@ -7,5 +7,5 @@ We aim to release the dataset in December 2022
 # SAfriSenti-Corpus Focus
 
 # Training Data
-We provide the training data for each sub-task separately.
+We provide the training data for each language including code-switches separately.
 
