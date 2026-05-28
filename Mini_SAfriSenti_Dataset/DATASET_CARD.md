@@ -1,17 +1,16 @@
-# Dataset Card: SAfriSenti Corpus Verification Sample
+# Dataset Card: SAfriSenti Corpus Sample
 
 ## Dataset Name
 
-SAfriSenti Corpus — Balanced Verification Sample
+SAfriSenti Corpus — Balanced Sample
 
 ## Purpose
 
-This sample was prepared to verify the existence and structure of SAfriSenti language datasets used for multilingual sentiment analysis in South African under-resourced languages.
+This sample was prepared to show the structure of SAfriSenti language datasets used for multilingual sentiment analysis in South African under-resourced languages.
 
 ## Supported Task
 
 Three-class sentiment classification:
-
 - Positive
 - Negative
 - Neutral
@@ -22,8 +21,7 @@ Three-class sentiment classification:
 - Setswana
 - Sesotho
 - isiXhosa
-
-The isiZulu source file was not included in the current upload and can be added when provided.
+- isiZulu
 
 ## Data Source
 
@@ -40,8 +38,6 @@ This verification sample prioritises easy-to-read records with English code-swit
 ## Intended Use
 
 The sample is intended for:
-
-- dataset verification;
 - examiner/school review;
 - repository documentation;
 - reproducibility checks;
@@ -49,11 +45,11 @@ The sample is intended for:
 
 ## Non-Intended Use
 
-This sample should not be used as a complete replacement for the full SAfriSenti corpus. It is a small verification subset and may not reflect the full distribution of the original dataset.
+This sample should not be used as a complete replacement for the full SAfriSenti corpus. It is a small subset and may not reflect the full distribution of the original dataset.
 
 ## Limitations
 
-The sample is limited to the four uploaded language files. It also prioritises readable English-code-switched examples, so it is not intended to represent the full linguistic complexity of the complete corpus.
+The sample is limited to the five African languages. It also prioritises readable English-code-switched examples, so it is not intended to represent the full linguistic complexity of the complete corpus.
 
 ## Responsible Use
 
