@@ -1,6 +1,6 @@
 # SAfriSenti-Corpus-Mini
 A multilingual sentiment corpus for South African Under-Resourced languages.
-This corpus includes the following languages: Code-switched Dataset, English, Sepedi, Setswana, Sesotho.
+This corpus includes the following languages: Code-switched Dataset, English, Sepedi, Setswana, and Sesotho.
 We are working on extending the corpus to more languages like IsiZulu, Ndebele, Xhosa, Tshonga, Venda and Afrikaans.
 We aim to release the dataset in December 2026.
 We also aim to collect tweets from nearby countries like Lesotho, Botswana, Swaziland and the Shona language for Zimbabwe
@@ -16,7 +16,7 @@ We provide the training data for each language, including code-switches, separat
 
 
 # Some Results with African LLMS
-Accuracy: 0.7832796713667147
+```Accuracy: 0.7832796713667147
 Classification Report:
                precision    recall  f1-score   support
 
@@ -26,9 +26,9 @@ Classification Report:
 
     accuracy                           0.78      9007
    macro avg       0.73      0.69      0.70      9007
-weighted avg       0.78      0.78      0.78      9007
+weighted avg       0.78      0.78      0.78      9007```
 
-Classification Report:
+```Classification Report:
               precision    recall  f1-score   support
 
            0       0.68      0.73      0.71       682
@@ -37,9 +37,9 @@ Classification Report:
 
     accuracy                           0.82      9007
    macro avg       0.78      0.79      0.79      9007
-weighted avg       0.82      0.82      0.82      9007
+weighted avg       0.82      0.82      0.82      9007```
 
-Classification Report:
+```Classification Report:
               precision    recall  f1-score   support
 
            0       0.53      0.68      0.59       671
@@ -48,9 +48,9 @@ Classification Report:
 
     accuracy                           0.58      2553
    macro avg       0.54      0.54      0.52      2553
-weighted avg       0.56      0.58      0.55      2553
+weighted avg       0.56      0.58      0.55      2553```
 
- Classification Report:
+```Classification Report:
               precision    recall  f1-score   support
 
            0       0.68      0.77      0.72      1262
@@ -59,17 +59,16 @@ weighted avg       0.56      0.58      0.55      2553
 
     accuracy                           0.74      5041
    macro avg       0.73      0.73      0.73      5041
-weighted avg       0.75      0.74      0.74      5041
-Classification Report:
-              precision    recall  f1-score   support
+weighted avg       0.75      0.74      0.74      5041```
 
+```Classification Report:
+              precision    recall  f1-score   support
            0       0.47      0.54      0.50       298
            1       0.55      0.35      0.43       578
            2       0.66      0.78      0.71       924
-
     accuracy                           0.60      1800
    macro avg       0.56      0.56      0.55      1800
-weighted avg       0.59      0.60      0.59      1800
+weighted avg       0.59      0.60      0.59      1800 ```
 
 # References
 1. Mabokela, K. R., & Schlippe, T. (2022). A sentiment corpus for South African under-resourced languages in a multilingual context. In *Proceedings of SIGUL 2022 @ LREC 2022* (pp. 70–77). European Language Resources Association.
