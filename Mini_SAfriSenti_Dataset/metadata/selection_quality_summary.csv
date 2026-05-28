@@ -1,13 +1,13 @@
 language,sentiment,english_code_switched,selected,selection_note
-Sepedi,positive,10869,100,Selected easy-to-read Random.
-Sepedi,negative,11345,100,Selected easy-to-read Random.
-Sepedi,neutral,2882,100,Selected easy-to-read Random.
-Sesotho,positive,970,100,Selected easy-to-read Random.
-Sesotho,negative,1575,100,Selected easy-to-read Random.
-Sesotho,neutral,467,100,Selected easy-to-read Random.
-Setswana,positive,1440,100,Selected easy-to-read Random.
-Setswana,negative,2365,100,Selected easy-to-read Random.
-Setswana,neutral,934,100,Selected easy-to-read Random.
-isiXhosa,positive,2307,100,Selected easy-to-read Random.
-isiXhosa,negative,4063,100,Selected easy-to-read Random.
-isiXhosa,neutral,2415,100,Selected easy-to-read Random.
+Sepedi,positive,10869,100,full sentence, Random.
+Sepedi,negative,11345,100,full sentence, Random.
+Sepedi,neutral,2882,100,full sentence, Random.
+Sesotho,positive,970,100,full sentence, Random.
+Sesotho,negative,1575,100,full sentence, Random.
+Sesotho,neutral,467,100,full sentence, Random.
+Setswana,positive,1440,100,full sentence, Random.
+Setswana,negative,2365,100,full sentence, Random.
+Setswana,neutral,934,100,full sentence, Random.
+isiXhosa,positive,2307,100,full sentence, Random.
+isiXhosa,negative,4063,100,full sentence, Random.
+isiXhosa,neutral,2415,100,full sentence, Random.
