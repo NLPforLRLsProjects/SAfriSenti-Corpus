@@ -1,4 +1,4 @@
-# SAfriSenti Dataset Existence Statement
+# SAfriSenti Dataset Statement
 
 I confirm that the SAfriSenti dataset has been used across several peer-reviewed research outputs forming part of my PhD by publication.
 
