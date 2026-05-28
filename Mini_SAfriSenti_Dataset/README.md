@@ -1,14 +1,14 @@
-# SAfriSenti Verification Sample
+# SAfriSenti Dataset Sample
 
-This repository pack provides a balanced verification sample from the SAfriSenti language files.
+This repository pack provides a balanced dataset sample from the SAfriSenti language Corpus.
 
 ## Purpose
 
-The sample is prepared to demonstrate the existence, structure, and label distribution of the SAfriSenti corpus for verification and reproducibility purposes.
+The sample is prepared to demonstrate the dataset's structure and label distribution of the SAfriSenti corpus for verification and reproducibility.
 
 ## Important Note on Current Upload
 
-This pack was generated from the five language files for this task: Sepedi, Setswana, Sesotho, and isiXhosa. The isiZulu source file was not included in the current upload. Therefore, this pack contains **1,500 records** from the five languages. 
+This pack was extracted from the five language files for this task: Sepedi, Setswana, Sesotho, and isiXhosa and isiZulu. Contains a sample of **1,500 records** from the five languages. 
 
 ## Balanced Sample Design
 
@@ -26,7 +26,7 @@ Each included language contains 100 positive, 100 negative, and 100 neutral reco
 
 ## Readability and English Code-Switching Selection
 
-The verification sample prioritises sentences that are easier to inspect manually. The sampling process selected records that:
+The dataset sample prioritises sentences that are easier to inspect manually. The sampling process selected records that:
 
 - contain 5 to 26 word tokens;
 - have URLs and user mentions removed;
