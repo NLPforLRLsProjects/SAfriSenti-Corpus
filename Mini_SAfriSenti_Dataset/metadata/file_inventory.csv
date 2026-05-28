@@ -8,7 +8,7 @@ docs/dataset_existence_statement.md,1399
 metadata/dataset_components.csv,696
 metadata/sample_distribution_summary.csv,138
 metadata/selection_quality_summary.csv,1042
-sample_dataset/SAfriSenti_sample_1200_uploaded_languages.csv,141850
+sample_dataset/SAfriSenti_sample_1200_languages.csv,141850
 sample_dataset/isixhosa_sample_300.csv,39820
 sample_dataset/sepedi_sample_300.csv,31881
 sample_dataset/sesotho_sample_300.csv,35655
