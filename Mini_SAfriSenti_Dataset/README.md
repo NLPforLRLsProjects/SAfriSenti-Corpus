@@ -60,7 +60,7 @@ Koena Ronny Mabokela
 Email: krmabokela@gmail.com
 
 
-## Balanced Verification Sample Files
+## Balanced Sample Files
 
 - `sample_dataset/sepedi_sample_300.csv`
 - `sample_dataset/setswana_sample_300.csv`
