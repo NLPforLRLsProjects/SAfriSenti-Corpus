@@ -126,7 +126,7 @@ If you use **SAfriSenti-Corpus-Mini** in your research, please cite the relevant
   title        = {{SAfriSenti-Corpus-Mini}: SAfriSenti Multilingual Sentiment Corpus for South African Under-Resourced Languages},
   year         = {2026},
   howpublished = {GitHub repository},
-  note         = {Balanced verification sample containing 1,500 labelled sentiment records across Sepedi, Sesotho, Setswana, isiXhosa, and isiZulu},
+  note         = {Balanced sample containing 1,500 labelled sentiment records across Sepedi, Sesotho, Setswana, isiXhosa, and isiZulu},
   url          = {https://github.com/NLPforLRLsProjects/SAfriSenti-Corpus}
 }
 ```
