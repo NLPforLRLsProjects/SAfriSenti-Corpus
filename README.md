@@ -1,4 +1,4 @@
-# SAfriSenti-Corpus
+# SAfriSenti-Corpus-Mini
 A multilingual sentiment corpus for South African Under-Resourced languages.
 This corpus includes the following languages: Code-switched Dataset, English, Sepedi, Setswana, Sesotho.
 We are working on extending the corpus to more languages like IsiZulu, Ndebele, Xhosa, Tshonga, Venda and Afrikaans.
