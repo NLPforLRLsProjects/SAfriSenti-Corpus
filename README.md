@@ -70,3 +70,9 @@ Classification Report:
     accuracy                           0.60      1800
    macro avg       0.56      0.56      0.55      1800
 weighted avg       0.59      0.60      0.59      1800
+
+# References
+
+
+# Citation
+If you use SAfriSenti-Corpus-Mini in your research please cit it as follows:
