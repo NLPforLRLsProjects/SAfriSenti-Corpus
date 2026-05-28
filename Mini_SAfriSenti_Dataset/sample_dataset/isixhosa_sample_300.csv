@@ -1,0 +1,301 @@
+﻿sample_id,language,text,sentiment,code_switched_english,english_token_count,word_count,source
+isixhosa_001,isiXhosa,y’all are keyboard warriors y’all don’t vote kaloku idolssa,neutral,True,1,12,Twitter
+isixhosa_002,isiXhosa,soze i need the heat,neutral,True,2,5,Twitter
+isixhosa_003,isiXhosa,bhele what bout nhliziyo 🤔🤨 hay maan jonga 👇🏾,negative,True,1,7,Twitter
+isixhosa_004,isiXhosa,monsieurponto mhlekazi why do you not add prices 😅 or are they steep,positive,True,7,12,Twitter
+isixhosa_005,isiXhosa,and impilo by kelvin momo ft kabza for good measure you know,neutral,True,3,12,Twitter
+isixhosa_006,isiXhosa,lolli native for real check my pinned post soze uzisolemama mixtape loading,neutral,True,1,12,Twitter
+isixhosa_007,isiXhosa,ill just work on maintaining this level at the very least okwamanje 😪🙃,negative,True,5,12,Twitter
+isixhosa_008,isiXhosa,utywala make us happy bafanas,negative,True,2,5,Twitter
+isixhosa_009,isiXhosa,me4opresident soze sana feluthando,positive,True,1,5,Twitter
+isixhosa_010,isiXhosa,by khanyi inkinga ubhuti akaqali ukubuza lembuzo enokugcinazela abasebenzi and yena usuke ekhulumela ama business as usual i think abantu bakhathele lol,negative,True,3,22,Twitter
+isixhosa_011,isiXhosa,teackay nakulenyanga thamsanqa im starting to think its a hobby,neutral,True,1,10,Twitter
+isixhosa_012,isiXhosa,usuke unenkinga uma uyilenhlobo engakhuzekiakekho okwazi ukukukhuza and nawe ngokwakho awukwazi ukuzikhuza ay kusuke sekubheda kakhulu ngempelakuhle ukukhuzeka,positive,True,1,18,Twitter
+isixhosa_013,isiXhosa,im in this training session and everytime this trainer makes a mistake she says oopsie 🤣🤣she looks 50 huns will be huns bethuna,neutral,True,8,22,Twitter
+isixhosa_014,isiXhosa,uwfm88 106fm blaqmaci imibilisoumamthembu welkomumbulelo smileusiphe mbetshuuayabonga mnyaziuayabulela mantyikunye no nokwandisa jamani enkosi ndisemchonco,positive,True,1,14,Twitter
+isixhosa_015,isiXhosa,amadoda yintoni i”we’ll see”,negative,True,2,6,Twitter
+isixhosa_016,isiXhosa,once you block me im blocking you back and soze ndiku unblock’e,neutral,True,4,13,Twitter
+isixhosa_017,isiXhosa,nomonde sky somusa esmall street so he can buy everything at a low price bese sodla inyama kwa mai mai or busy corner uzakhetha,neutral,True,5,24,Twitter
+isixhosa_018,isiXhosa,slunce14 e mma nta rona setse re tsamaa bo 12 mme ra tshela hela gape the clock is ticking wa bona,neutral,True,2,20,Twitter
+isixhosa_019,isiXhosa,lol umgwinyo is hilarious like why are the eyes popping “lutho othuswa yinton” “akhonto ma 👀”😂,negative,True,6,15,Twitter
+isixhosa_020,isiXhosa,i need to back to dating so that ndizophinda ndibe shy again because yintoni le bendiyi jaiva kula cofi izolo 😢,negative,True,4,20,Twitter
+isixhosa_021,isiXhosa,zeziminqweno and u know why ndikujongile 😃,positive,True,2,6,Twitter
+isixhosa_022,isiXhosa,i’m currently on a staycation with my friends and all i can say is that busihlulile utshwala 🤝,negative,True,9,18,Twitter
+isixhosa_023,isiXhosa,ntuliondla not mfjones he is our top scorer nangoku its not much,neutral,True,6,12,Twitter
+isixhosa_024,isiXhosa,thamsanqa hi thamsanqa thank you for contacting us please note that we have responded to your dm,neutral,True,8,17,Twitter
+isixhosa_025,isiXhosa,gushgirl yanga co pe is dull bra akhonto apha indawo zemandi zise kasi only,negative,True,2,14,Twitter
+isixhosa_026,isiXhosa,oh bethuna umntu wam love and light kuye❤️,positive,True,2,8,Twitter
+isixhosa_027,isiXhosa,sinomlambo light and strength my dear sister may her beautiful soul rest in peacejoooh bethunana taxi drivers,neutral,True,2,17,Twitter
+isixhosa_028,isiXhosa,i need to get myself a phone as in yesterday bethuna 🕯️,neutral,True,3,11,Twitter
+isixhosa_029,isiXhosa,uthabowisdom kuthiwe you know what youve got a good heartingxaki ndim next thing uyotyisa u thabo enext doorwena dololo ukutyiswa ubanjwe nge jab yeerrr amankazana afundileyo,negative,True,4,26,Twitter
+isixhosa_030,isiXhosa,kutheni ingathi ugezeleka a bit too much njena umicah,neutral,True,2,9,Twitter
+isixhosa_031,isiXhosa,if i was a pastor i would make the congregation sing ukholo lwami in the beginning and end of the service every sunday,positive,True,11,23,Twitter
+isixhosa_032,isiXhosa,aya dladla 🤣🤣🤣they dont care uziphe ixesha n listen to their conversations ba lapha emhlabeni 4 ubumnandi qha,negative,True,3,17,Twitter
+isixhosa_033,isiXhosa,whoever laced that cyanide clearly didn’t put enough ngicela nimqedele 🙏🏾,positive,True,1,11,Twitter
+isixhosa_034,isiXhosa,abuttiitshepsyd asekandaba zama enewcastle amanzi amancane this one,positive,True,1,8,Twitter
+isixhosa_035,isiXhosa,destinyzee we are busy selling condoms to enhle demand is high kancane ngenganekwane ye titties,neutral,True,3,15,Twitter
+isixhosa_036,isiXhosa,sinomlambo i dont know the pain of loosing a child but ngyakwazi ubunzima bokukhulisa umntwana lapho sowucala uku relaxer n this happen askies mamakhe,negative,True,6,24,Twitter
+isixhosa_037,isiXhosa,you guys were not voting for mpilo yhooo bethuna idolssa,positive,True,3,10,Twitter
+isixhosa_038,isiXhosa,ayathandwamatt back in your twitter for web era yho uxolo friend 😭😭😭😭,positive,True,2,11,Twitter
+isixhosa_039,isiXhosa,lizwi g uxolo you being active ku twitter tells me uright apho ukho and im glad get some rest ♥️,positive,True,4,19,Twitter
+isixhosa_040,isiXhosa,radio2000 za glenlewissa nathi ndamase lelomzaca theglenzitosuperdrive i feel sorry for that guy cause udlulwa iskhathi esibalulekile kakhulu empilweni youthendala 985mhz montclair durban,positive,True,4,23,Twitter
+isixhosa_041,isiXhosa,were honored indlalifa mfo ka jama words cant express the gratitude 🙌🏿🙌🏿🙌🏿❤❤,positive,True,3,11,Twitter
+isixhosa_042,isiXhosa,shantel tee haybo this woza ngikvulele indlela was universal kanti😃,positive,True,2,10,Twitter
+isixhosa_043,isiXhosa,mashudu m scene a scared the shit out of me but b is hilarious iyosuka impi kulaba bobabili rasta usile se moer,neutral,True,5,22,Twitter
+isixhosa_044,isiXhosa,siyamtandagwija ewe uyabuzwa okanye you just mention a name njeee,positive,True,3,10,Twitter
+isixhosa_045,isiXhosa,thuli zl lol khange ivulwe 😂,positive,True,1,5,Twitter
+isixhosa_046,isiXhosa,me phelokazi soze ke xandikhona 😳,positive,True,1,5,Twitter
+isixhosa_047,isiXhosa,kingdon za in my funeral nizodla amasi nedokwe kudula kabi ukudla,neutral,True,1,11,Twitter
+isixhosa_048,isiXhosa,maerronxumalo phofu vele u are a hooligan 🤣🤣🤣🤣,neutral,True,2,7,Twitter
+isixhosa_049,isiXhosa,😂😂😂 i’m even ready to move on from vat now kule plantation because i feel like akhonto that i don’t know pha 😭,negative,True,8,23,Twitter
+isixhosa_050,isiXhosa,oscarnkululeko kancane kancane please theres not g,neutral,True,2,7,Twitter
+isixhosa_051,isiXhosa,xolamagau when mine was doing gr1 ndandisiya at least once a week i even started buying from that school shop iyadura impahla yesikolo,negative,True,7,23,Twitter
+isixhosa_052,isiXhosa,sosh lwana honestlyit looks like a certain poisonous something something 😭soze ngayishutha mina🤣,negative,True,2,13,Twitter
+isixhosa_053,isiXhosa,this is why ndithuma kemnake umntu makasebenze naye bethuna while evasa umntana i will prepare his lunch mntakabawo,neutral,True,5,18,Twitter
+isixhosa_054,isiXhosa,mateboho ml jonga 😉see you on the 26th february 👍,positive,True,2,9,Twitter
+isixhosa_055,isiXhosa,letoabarosemary shia legodi nami ngicela ibackdoor hook up please,neutral,True,1,9,Twitter
+isixhosa_056,isiXhosa,how will she then spend her allowance soze ebe ndim,neutral,True,3,10,Twitter
+isixhosa_057,isiXhosa,madiboity what do you know mhlekazi,positive,True,3,6,Twitter
+isixhosa_058,isiXhosa,love you loads ke bethunana🙃❤️,positive,True,2,5,Twitter
+isixhosa_059,isiXhosa,honestly there must be some smart engineers somewhere who can resolve the maintain backlog yintoni ingxaki bethunana,negative,True,5,17,Twitter
+isixhosa_060,isiXhosa,zinzeka naijahottest makayo lala bethuna because what is she saying 😂😂😂 uyaziva,positive,True,4,11,Twitter
+isixhosa_061,isiXhosa,khosi please go to yemi abegbbtitans,neutral,True,1,6,Twitter
+isixhosa_062,isiXhosa,pallnandi inkinga laba bavele basimithise😂🤣😂🤣this will end in nan and pampers😂,positive,True,3,12,Twitter
+isixhosa_063,isiXhosa,zeencle m lona what if doro le innos friendship ends and then go ba le friendship feud engwe mara anyways nna ke ready for izindaba👀,positive,True,3,25,Twitter
+isixhosa_064,isiXhosa,mna ill always ask why umzali wam prefers my little sister over mna while ndingahluphi mnawhats with abazali protecting abantwana oko bayaxabanisa kodwa😏,negative,True,3,23,Twitter
+isixhosa_065,isiXhosa,zamaswazimadon4 mtamerri he is consistent jonga 🤣,negative,True,2,6,Twitter
+isixhosa_066,isiXhosa,sivvgobozi inyama leyo uyithandayo qha ke awuyingamandla etywaleni xa unyanga i bubbly,positive,True,1,12,Twitter
+isixhosa_067,isiXhosa,fikz the cook athigeleba 😂 ngicela le recipe,positive,True,1,7,Twitter
+isixhosa_068,isiXhosa,if i could amasi would be my every day dish🥺,neutral,True,6,10,Twitter
+isixhosa_069,isiXhosa,this was black motions intro at kunye🔥🔥🔥,positive,True,2,7,Twitter
+isixhosa_070,isiXhosa,tshezi bm lol early 80s gang kaloku 😭🤭🤭🤣🤣🤣,negative,True,1,7,Twitter
+isixhosa_071,isiXhosa,guise please plug me nge toner engekho harsh engaduri pls,negative,True,2,10,Twitter
+isixhosa_072,isiXhosa,omphemetsemosh5 maxaba zar qhawe l danki ngiyabonga yho umuntu wafuna ukusifaka angithi yibo masithi sithanda natural look bathi were stingy,negative,True,1,20,Twitter
+isixhosa_073,isiXhosa,mercychauke9 ekugcineni you want the activity vele 🫣,neutral,True,2,7,Twitter
+isixhosa_074,isiXhosa,if une chance yotsweba umbane mtswebe anye,negative,True,1,7,Twitter
+isixhosa_075,isiXhosa,lmkonqo 🤣🤣🤣🤣 kaloku you were busy finding notes from donkey years ago awatsho ubana you are packing,negative,True,4,16,Twitter
+isixhosa_076,isiXhosa,collen km she switched from star to dove then boom hoe mode,neutral,True,1,12,Twitter
+isixhosa_077,isiXhosa,mnqobiyazosa ngihleka ungakasho lutho 😅 i really enjoy your character ♥️big up,positive,True,3,11,Twitter
+isixhosa_078,isiXhosa,vandal707 khawuphumle in the meantime kaloku,positive,True,1,6,Twitter
+isixhosa_079,isiXhosa,sithabileng iyafanabut this specific variant kuthiwa isuka eusa impela akvalwe lutho engenayo ✈️ emzansi,positive,True,1,13,Twitter
+isixhosa_080,isiXhosa,niwatholile ama first twerk of the guys or,neutral,True,2,8,Twitter
+isixhosa_081,isiXhosa,ulibonile ixesha or uover seas,negative,True,1,5,Twitter
+isixhosa_082,isiXhosa,not 45kgs saying ngicela ihot dog and chips now i must peel amazambane and fry them kodwa zalani anginamona,negative,True,6,19,Twitter
+isixhosa_083,isiXhosa,happy birthday to my brother bear costa mbu mbu32 🥳🎉🎈 more life mntasekhaya ❤️,positive,True,3,12,Twitter
+isixhosa_084,isiXhosa,this is how idyans get tempted zivele ziyilahle impahla 🤣you can have me any way you wantheyi satan 😩,negative,True,8,18,Twitter
+isixhosa_085,isiXhosa,my neighbour and their friends love a house party mntkbw sbwl a quiet sunday evening indoors but bathe “soze” 😂🥲…at least they’re having fun 🙃,positive,True,9,25,Twitter
+isixhosa_086,isiXhosa,batswadi ba reng hle😭😭its important to remember gore social media is small bethuna😭😭,negative,True,1,14,Twitter
+isixhosa_087,isiXhosa,bhele thembisile q ewe please find other spots ezi cute but kubekhona utywala,negative,True,2,13,Twitter
+isixhosa_088,isiXhosa,i missed ugogo 😅 she was my fave isencanelengane,positive,True,4,8,Twitter
+isixhosa_089,isiXhosa,my mom rushing home to make eggless bcoz umhlangano pancakes for us before kungene isabatha❤️ushembe wangena wazinza ekhaya🤍,positive,True,3,19,Twitter
+isixhosa_090,isiXhosa,c mphiwes they must send child support refunds will be done after bethuna 😂😂😂,positive,True,5,13,Twitter
+isixhosa_091,isiXhosa,yoh i can’t wait for the weekend ndifuna ulala 😭,negative,True,4,10,Twitter
+isixhosa_092,isiXhosa,leebellarossa okanye abhubhe ziintlungu because iyabonakala ibuhlungu lanto 😢,negative,True,1,8,Twitter
+isixhosa_093,isiXhosa,oaks were fiending for disappearing nudes in the dms ngela xesha what a dark time 😂,positive,True,4,15,Twitter
+isixhosa_094,isiXhosa,chiefs ke chelsea that went to public school kancane kancane iyavela🤣🚮,neutral,True,2,11,Twitter
+isixhosa_095,isiXhosa,sisandasigidi ubaxelele ndiyabulela for intervening in my absentia 🤌🤌🤌,positive,True,1,8,Twitter
+isixhosa_096,isiXhosa,lejaka1 buhle mahlangu1 futhi i really cant sibadala kangaka kodwa uyasisanganisa😂😂😂,positive,True,3,11,Twitter
+isixhosa_097,isiXhosa,rafaelh117 highly possible pep is a hard man to please,negative,True,4,10,Twitter
+isixhosa_098,isiXhosa,tamongs92 yintoni i peanut butter ngesixhosa,negative,True,1,6,Twitter
+isixhosa_099,isiXhosa,sebabatso barbs artielm who i dont understand,neutral,True,3,7,Twitter
+isixhosa_100,isiXhosa,carwootah and zirhola kakuhle eza chap,positive,True,1,6,Twitter
+isixhosa_101,isiXhosa,papaamama bona chrisexcel102 how is that working out for you okanye uyaqamza nje,neutral,True,4,13,Twitter
+isixhosa_102,isiXhosa,michaelbucwa pity that she won’t understand what you tweeted here khuluma bro 😂,positive,True,5,13,Twitter
+isixhosa_103,isiXhosa,mswenklondon soze 😂😂😂it cant be 14,positive,True,3,5,Twitter
+isixhosa_104,isiXhosa,ori rsa ori usudlile khehla😂😂😂ngathi ulambiledoes he even understand zulu though 😭,negative,True,1,12,Twitter
+isixhosa_105,isiXhosa,the way yall love this ba straata song mara masithi yall for the streets la kwata e ra gorr inkinga islungu,neutral,True,4,21,Twitter
+isixhosa_106,isiXhosa,pule madondo can i answer you mangithola umsebenzi i owe myself a celebration shem,neutral,True,5,14,Twitter
+isixhosa_107,isiXhosa,nginguhlengi akalenzi iphutha obanana always,negative,True,1,5,Twitter
+isixhosa_108,isiXhosa,qokani stiff pap nesibindi or namaqanda zimnandi kangaka,positive,True,1,8,Twitter
+isixhosa_109,isiXhosa,skibha looking at the initial tweet of this thread uwena owadingayo udle ngoba ulambile futhi,negative,True,2,15,Twitter
+isixhosa_110,isiXhosa,my fave is a whole mood my addict bethuna 😍😍 bbtitans,positive,True,4,10,Twitter
+isixhosa_111,isiXhosa,mthigo inkinga people are failing to see the problem with that ad,negative,True,4,12,Twitter
+isixhosa_112,isiXhosa,when mshunqisi says ngempela ngempela ngempela ngempela ngempela,neutral,True,1,8,Twitter
+isixhosa_113,isiXhosa,chrisexcel102 wish someone could just inform him that as a country asivani nabantu abaziphethe ubuphara aziphathe kakuhle,positive,True,4,17,Twitter
+isixhosa_114,isiXhosa,king thukzin mthembu and inyama yenhloko yakhonaehostel uyanela 🤝,neutral,True,1,8,Twitter
+isixhosa_115,isiXhosa,ngaske uvoetsek with this nonsense,neutral,True,1,5,Twitter
+isixhosa_116,isiXhosa,justbongza 🤣🤣🤣 yes youim sure ne vaylense izokwehla kancinci,negative,True,1,8,Twitter
+isixhosa_117,isiXhosa,1 segaetshom jonga im already planning my umembeso😭😭,negative,True,2,7,Twitter
+isixhosa_118,isiXhosa,inoba what is life na sana,neutral,True,2,6,Twitter
+isixhosa_119,isiXhosa,msmabala yaz i noticed its soo crazy some show the location 😭 cabanga in this country 😳,negative,True,3,15,Twitter
+isixhosa_120,isiXhosa,lmkonqo qala le 6th anniversary ngeye 6months or 6years kaloku kumele kucace,neutral,True,1,12,Twitter
+isixhosa_121,isiXhosa,sjmauryy if someone interests you that much uyamngena…the rest keh uyobona phambili😹,positive,True,5,13,Twitter
+isixhosa_122,isiXhosa,thato nmv it said jonga mna,negative,True,1,6,Twitter
+isixhosa_123,isiXhosa,glendumi1 maagarash inganekwane lento yenu ye politikimina abantu abalandela ozumamalemaramaphosa and many more ababhadlanga ekhandaabantu abangadliwa yi 3 card ejozi in my terms ububharinyana lento,negative,True,4,24,Twitter
+isixhosa_124,isiXhosa,😂 i tweeted the other day here we live with people who finish 5 years bangaboni umlungu or a tall building,negative,True,7,19,Twitter
+isixhosa_125,isiXhosa,errolbsk yes illegally so kodwa ke icala aliboli,negative,True,2,8,Twitter
+isixhosa_126,isiXhosa,this is unacceptable nam angwathandi amasi bhut this no,neutral,True,4,9,Twitter
+isixhosa_127,isiXhosa,only ever had one crush in school it wasnt that deep just thought he was kinda cute ended up dating him we were so cute bethuna 😍,positive,True,11,26,Twitter
+isixhosa_128,isiXhosa,cozminontsomi and to think they are trying to normalise it hay sies maarni don’t even find my cousins attractive babatywa kakubi abantu,negative,True,5,23,Twitter
+isixhosa_129,isiXhosa,crypto monnk myanc wiii labo… bahlulwa umsebenzi why mele kube namaveteran on these big companies thina esasingekho kumzabalazo ngeke sizinuke lezaykhundla,negative,True,2,21,Twitter
+isixhosa_130,isiXhosa,my crush is so great bethuna look for material,neutral,True,3,9,Twitter
+isixhosa_131,isiXhosa,sibugx inkinga yami i want to achieve all this in 2 days☹️,negative,True,2,11,Twitter
+isixhosa_132,isiXhosa,amanga were exposed dmfmzansi datemyfamilysa,negative,True,1,5,Twitter
+isixhosa_133,isiXhosa,floss reigh nam ndifuna eyam iapology🤣🤣🤣 basebenza iover time namhlanje and i like it,negative,True,4,14,Twitter
+isixhosa_134,isiXhosa,am buddahman loool hayibo soze what happened,negative,True,2,7,Twitter
+isixhosa_135,isiXhosa,madam pb what if andinayo isize,neutral,True,2,6,Twitter
+isixhosa_136,isiXhosa,i just knew soze behlefuck,neutral,True,2,5,Twitter
+isixhosa_137,isiXhosa,the previous load shedding scheduled ended at 2030 and at 2100 another one kicked in… wow yintoni le esikuyo 😩,negative,True,3,17,Twitter
+isixhosa_138,isiXhosa,mdnnewss abanye bacabanga ukuthi sizonesa ama feelings wabo la if you cant read isizulu then musa ukuthanda izindaba,negative,True,3,18,Twitter
+isixhosa_139,isiXhosa,that bubble yintoni le ukuyo let’s meet at our spot,negative,True,2,11,Twitter
+isixhosa_140,isiXhosa,koko matshela uxolo bra yam hope you come right💪🏽,positive,True,1,9,Twitter
+isixhosa_141,isiXhosa,zimasamatiwane phofu our grandfather was an only child but yena wenza sure,negative,True,5,12,Twitter
+isixhosa_142,isiXhosa,mat boschh they should hire that man as a stuntman umosha iskhathi doing deliveries,negative,True,4,14,Twitter
+isixhosa_143,isiXhosa,helenzille jeandre lennox jsteenhuisen uyaxoka madamtell us the truth,negative,True,2,9,Twitter
+isixhosa_144,isiXhosa,ndiyaybawela ke lentwana qha iworry yam imuncu okwe lemoni ngaske athule andizekise qha lol,negative,True,1,14,Twitter
+isixhosa_145,isiXhosa,blessing xaba nodangala4 thetruthpanther some kids only eat at school and i dont even think they eat amasi monfri such a behavior can not be promoted,neutral,True,10,26,Twitter
+isixhosa_146,isiXhosa,sjavas music gives me so much hope nesami isimo sizolunga,neutral,True,3,10,Twitter
+isixhosa_147,isiXhosa,mphahlele now is solid unlike when he played for us his knees were not that strong i suspect something is not right over there noba yintoni,negative,True,13,26,Twitter
+isixhosa_148,isiXhosa,oh my girl khosi bethuna 😍bbtitans,positive,True,1,6,Twitter
+isixhosa_149,isiXhosa,fitmasi kha ubuye kengoku so we can have a waxing date 😂😂🤣,positive,True,5,11,Twitter
+isixhosa_150,isiXhosa,gugla grl uhlalaphi maybe inkinga ilapho lol,positive,True,2,7,Twitter
+isixhosa_151,isiXhosa,china mobile global graduate trainee programme 2023 in johannesburg jobseekerssa | jobalert | job | saps | kingsofjoburg | south africans | vusi | amasi | omega 3 |,neutral,True,1,18,Twitter
+isixhosa_152,isiXhosa,i’m too old to be waking up alone😭 lixesha loba nditshate okanye ndihlalisane eli,negative,True,2,15,Twitter
+isixhosa_153,isiXhosa,makazi uchomie coming through with a lecturemotivation love yaya bbtitans,neutral,True,2,10,Twitter
+isixhosa_154,isiXhosa,mzamatolo spoil or yiqhele kakubi 😂😂😂,negative,True,1,5,Twitter
+isixhosa_155,isiXhosa,i think a lot of men need to listen to this penuel the black pen | in conversation phesheya duma varsity uber busi via youtube,neutral,True,4,24,Twitter
+isixhosa_156,isiXhosa,trinet12 dzumasambudla hey wena dont spell your nxamalala in xhosa nxn asingeni ndawo thina kulo ngxaki yenu,neutral,True,2,17,Twitter
+isixhosa_157,isiXhosa,jenni did bbl kutheni kengku esisi shwapa,neutral,True,1,7,Twitter
+isixhosa_158,isiXhosa,ukhozifmvabsngicela ukt happy birthday kuakhona sphumelele zuma indodakazi kakholwa kwandaya akhule nje 🎂 🥳 🎉 🎈 djsgqemeza mrozawangempel ukhozi fm,positive,True,1,16,Twitter
+isixhosa_159,isiXhosa,akhonto ityafisayo like a gent that wears shady sneakers 😔 why unxibe itiger zuko,negative,True,4,13,Twitter
+isixhosa_160,isiXhosa,teezer lol as she should but uxolo😂😂,positive,True,4,7,Twitter
+isixhosa_161,isiXhosa,6 cars being stolen from the dealership is quite wild,neutral,True,3,9,Twitter
+isixhosa_162,isiXhosa,if ufuna umshado firstly u must put it into ur big head uba indoda inhloko yekhaya,negative,True,2,16,Twitter
+isixhosa_163,isiXhosa,khalathinene2 sometimes amanga awasdingi isbongo ngisekhaya was enough 💁‍♂️😂,positive,True,1,8,Twitter
+isixhosa_164,isiXhosa,xhantipayi your advice please mhlekazi a matriculant is interested in studying econometrics which universityies would you recommend,positive,True,7,17,Twitter
+isixhosa_165,isiXhosa,oluchy inkinga ilobhuti lo 🍆 he stands up when umlingani wakhe is around 🍑,positive,True,3,12,Twitter
+isixhosa_166,isiXhosa,havana bloom yes ngibe happy once😩🤣cabanga sengi trend nalezicathulo 💀💀,negative,True,2,10,Twitter
+isixhosa_167,isiXhosa,hes still with yvonne bethuna 🤣🤣,neutral,True,1,5,Twitter
+isixhosa_168,isiXhosa,cishe ngathi sebenza brown envelope lol,neutral,True,1,6,Twitter
+isixhosa_169,isiXhosa,madmontana no i for one dont believe in instant success keep it very far away it rarely works,negative,True,6,18,Twitter
+isixhosa_170,isiXhosa,sbewuomuhle comfortmnguni mdnnewss angekeandiyi and andizisoze😎,positive,True,1,6,Twitter
+isixhosa_171,isiXhosa,joyblackza our beautiful big sister❤️owethu sonke usis fikz bethuna 😘,positive,True,1,10,Twitter
+isixhosa_172,isiXhosa,mosaroccoii wena uzawuthola kanjani umsebenzi ngesingisi esigamuke so,neutral,True,1,8,Twitter
+isixhosa_173,isiXhosa,ujekebuzi lutho i slept at 3am binge watching on netflix,neutral,True,2,10,Twitter
+isixhosa_174,isiXhosa,ke tshela ka anxiety confidence and esteem issues but i think i turned out okay 😊,positive,True,6,15,Twitter
+isixhosa_175,isiXhosa,madunasizakele 😂😂😂🤣🤣🤣 only time will tell xolisa kusase early,positive,True,2,8,Twitter
+isixhosa_176,isiXhosa,ukhozi fm ngicela ukuthi happy birthday ku akhona inganekakholwa zuma ukhozifmvabs,neutral,True,1,11,Twitter
+isixhosa_177,isiXhosa,uluyanda gama bafo khandifake ezi taxinindifuna le line yase riverside viewill help you with excel 😂😂,negative,True,1,15,Twitter
+isixhosa_178,isiXhosa,girlies jump into the uber…mlungisi oh and ndicela ukudlala u beyoncé bhuti,positive,True,2,13,Twitter
+isixhosa_179,isiXhosa,nhlanhlathembah khona khona laim sure sekhona osecele inamba inkinga nje ukuthola umuntu onama good intentions,neutral,True,1,15,Twitter
+isixhosa_180,isiXhosa,i will never switch on amp off my geyser i don’t noba umbane is expensive,negative,True,6,16,Twitter
+isixhosa_181,isiXhosa,mvelasep what kind of nyanga are you you already predicted 2033 manje wena have you done predictions for your own life,neutral,True,9,20,Twitter
+isixhosa_182,isiXhosa,carwootah yey why umnka ixesha elingakai thought yi 2 hours😳,positive,True,1,9,Twitter
+isixhosa_183,isiXhosa,busani mtalanam soze in gunners we trust,neutral,True,1,7,Twitter
+isixhosa_184,isiXhosa,pirates supporters i know the pain we felt it kwi chiefsnantsi i50kg ye grandpa guys it will eas the pain lol,neutral,True,9,22,Twitter
+isixhosa_185,isiXhosa,i’m sure ingase ayiqubule imoto athi ukuyihlehlisa kancane ecaleni 🤣🤣😂😭😭😭,negative,True,1,10,Twitter
+isixhosa_186,isiXhosa,lindilesifile ndilibele but sowetan is retweeting me,neutral,True,3,7,Twitter
+isixhosa_187,isiXhosa,veejay jacobs chomi i thought ndine ngxaki thanks for this,neutral,True,3,10,Twitter
+isixhosa_188,isiXhosa,chrisexcel102 uyaxoka kwedin january transfer window we will do the things,negative,True,4,11,Twitter
+isixhosa_189,isiXhosa,zsimayi lindiwesisulusa you forgot about zizi kodwa and gwede mantashe mhlekazi,positive,True,2,11,Twitter
+isixhosa_190,isiXhosa,bulela u dont have to use emotional blackmail for clout at the officers expense an the people who suffered ubolile,positive,True,6,20,Twitter
+isixhosa_191,isiXhosa,i wanna laugh at that jali and chris tweet mara i dont want mhlekazi to block me 🤣🤣😂,positive,True,6,17,Twitter
+isixhosa_192,isiXhosa,onezwa that time bendi encouraga ke mna bendingaphoxisibut akhonto wethu nomdade,negative,True,1,11,Twitter
+isixhosa_193,isiXhosa,mendy ukhe watsiba esenegal or even france phofu,neutral,True,1,8,Twitter
+isixhosa_194,isiXhosa,anny944 ndicinga ujoin sisi qha ndisa cinga how i’m going to fit that in my schedule,neutral,True,4,17,Twitter
+isixhosa_195,isiXhosa,luna sowata nalo o zishakayo kancane is making it worse 🫠,neutral,True,2,10,Twitter
+isixhosa_196,isiXhosa,stemyhun jonga one thing about my home town bahle va i have exact same experience xa ndize apho🙆🏾‍♀️🙆🏾‍♀️🙆🏾‍♀️❤️‍🔥❤️‍🔥 ndiyakuva mna 🤞🏾,positive,True,4,20,Twitter
+isixhosa_197,isiXhosa,ingaske kuthwe masikhe singathethi ngamadoda for at least a week,neutral,True,1,10,Twitter
+isixhosa_198,isiXhosa,zoemkoena thenga ibhodlela usele what okunye zokubona ngomso 🤷,neutral,True,1,8,Twitter
+isixhosa_199,isiXhosa,johnmcardozo1 what are they stealing kanti nantsi inyama phantsi nje 🙆🏽‍♂️🙆🏽‍♂️,positive,True,3,10,Twitter
+isixhosa_200,isiXhosa,let’s not forget who kabza de small is kaloku majimboz,neutral,True,3,11,Twitter
+isixhosa_201,isiXhosa,siviwe gs mxoduda look2windwards tamie4life yes uyazi kakuhle mntase 😂,positive,True,1,11,Twitter
+isixhosa_202,isiXhosa,sasah thunzi im alright how are you ezami izindaba are very bad lately manje i dont really have time for my phone 😖,negative,True,11,22,Twitter
+isixhosa_203,isiXhosa,ncamsile actually thats not right ngoba the time usudla ntambama uzodla kakhulu coz you havent eaten usuku lonke,positive,True,3,18,Twitter
+isixhosa_204,isiXhosa,nelisa is crying yoh bethuna,neutral,True,1,5,Twitter
+isixhosa_205,isiXhosa,mthojileka caba pregnancy izisa ingxaki in a relationship,negative,True,1,8,Twitter
+isixhosa_206,isiXhosa,gamalamliyabiza theee advisor costanazi lekoloanemanam2 tumikeboss bchinyakata am nanakofi1 mona tef lutho bafo 🤣🤣🤣,neutral,True,1,13,Twitter
+isixhosa_207,isiXhosa,africanmannnn ntandosgudla i think ezam leyngane eng’khuluma ngazo,neutral,True,1,9,Twitter
+isixhosa_208,isiXhosa,irvinxavi1 lutho 😭 we are enough with takeaways angeke 🥹,negative,True,2,8,Twitter
+isixhosa_209,isiXhosa,the way everyone is helping 😭😭😭😭 ndiyabulela from the bottom of my heart🙏🏽,positive,True,4,12,Twitter
+isixhosa_210,isiXhosa,ncncnc even though kanene pha emsebenzini same quarter ndikhe ndathukwa ndagcwaliselwa ndingenatyala ey bethuna but still performed so well 🥹,negative,True,3,19,Twitter
+isixhosa_211,isiXhosa,sammy921027 gift sehlola realmrumadrive that was my question bafo ngoba naku statement wawngaveli nokuthi uthathwe ubani impendulo engayithola bathi bank charges,negative,True,4,21,Twitter
+isixhosa_212,isiXhosa,kaysexwale kaloku yeyakhe nje how dare you want to mute the chief tweet,neutral,True,3,13,Twitter
+isixhosa_213,isiXhosa,bonganiii why kancan kancane kakhulu kakhulu,positive,True,1,6,Twitter
+isixhosa_214,isiXhosa,inkinga raf money has potholes 🤞🏾😅,positive,True,2,5,Twitter
+isixhosa_215,isiXhosa,lunga 21 inoba usanxilile mntasekhaya very much so,neutral,True,3,7,Twitter
+isixhosa_216,isiXhosa,evidence shongw like how mara 247 365 soze 🤞🙆😳🙆,positive,True,2,6,Twitter
+isixhosa_217,isiXhosa,why are men yho haa bethuna,positive,True,2,6,Twitter
+isixhosa_218,isiXhosa,sizwedhlomo ey sizwedhlomo phela udume ngama predictions wokvaya what did you hear now b,neutral,True,4,14,Twitter
+isixhosa_219,isiXhosa,fckn ironic umntu abhibhidle nje amazinyo ngobu menemeneat that time angekhe afel umntwana wakheangekhe afel umfazi wakheinstead angahamba ayothwala athengise ngemiphefumlo yabo nangegazi labo,negative,True,1,24,Twitter
+isixhosa_220,isiXhosa,mfoka jobe news just in they thought its you in that convoy mhlekazi,positive,True,4,13,Twitter
+isixhosa_221,isiXhosa,mthembu khumbulu bengibekisa… ngeke sixabaniswe imali engekho okay ngokuzama ng esincane … ngizobuza umama yongy094 if singakunika malini,negative,True,2,17,Twitter
+isixhosa_222,isiXhosa,im not leaving my underwear at a boyfriends place just to claim a positionsoze,neutral,True,5,14,Twitter
+isixhosa_223,isiXhosa,bethuna its like these happened weeks ago 🤣🤣🤣,neutral,True,2,7,Twitter
+isixhosa_224,isiXhosa,cabanga phela ngoba it’s not friday today 🥴,negative,True,3,8,Twitter
+isixhosa_225,isiXhosa,chumiesa sundi force’a kaloku 🌚,positive,True,1,5,Twitter
+isixhosa_226,isiXhosa,abo oscar mabuyane kanti yini umsebenzi wabo being power hungry only,neutral,True,2,11,Twitter
+isixhosa_227,isiXhosa,aphelelejody kanya kb jonga passport dusted visa loading and contract loading asobe ndive ngani rha,negative,True,1,15,Twitter
+isixhosa_228,isiXhosa,i network nayo once wa shift nje kancane ku spot it’s game over 😂😂😂,positive,True,3,14,Twitter
+isixhosa_229,isiXhosa,jagman4sho kingcoshi lesufi julius s malema effsouthafrica myanc kumele ngikhahlele umntwana webhunu nginayo i r12k,neutral,True,1,17,Twitter
+isixhosa_230,isiXhosa,grand master m you are a very good actor kaloku wenandiyakwazi,neutral,True,5,11,Twitter
+isixhosa_231,isiXhosa,kabeezy29 ngyabonga dali wami ❤️❤️❤️ but as msaki would say “ubomi abumanga” impilo kuzomele iqhubeke 🥺🥺,positive,True,2,14,Twitter
+isixhosa_232,isiXhosa,i’m never working for another small yt owned company again kuyagezwa phaya,neutral,True,2,13,Twitter
+isixhosa_233,isiXhosa,not too good im feeling lonely and emotional namhlanje ingaske ndibekwe esifubeni and sleep,neutral,True,5,14,Twitter
+isixhosa_234,isiXhosa,bhele gcogconombebe bhele uneshaqa le crocs r700 kaloku i crocs,neutral,True,1,10,Twitter
+isixhosa_235,isiXhosa,watched opw today all i can say is im joining tinder shame this year soze ndingabina boyfriend ndedwa kaloku😩,negative,True,5,19,Twitter
+isixhosa_236,isiXhosa,sharing a bottle of cab sauv over a fire chatting adulting tings with the old man will always be top tier moments for me ndiyabulela tenza,positive,True,7,26,Twitter
+isixhosa_237,isiXhosa,oceangiggless yhoooo that akwande or he reminds later that khange ucele uxolo😂,positive,True,4,12,Twitter
+isixhosa_238,isiXhosa,nantsi ke i25 year old 😍❤️🥂🎉thank you so much to everyone who wished me a happy birthday yesterday 🙏🏾 yall made my day extra special ❤️❤️😘,positive,True,11,24,Twitter
+isixhosa_239,isiXhosa,langton grant stusjohnson not khayalitshalanga philip and nyanga,neutral,True,2,8,Twitter
+isixhosa_240,isiXhosa,mpedi86 haw ngeke soze i’ll one of the nola’s some of them are nice,neutral,True,4,16,Twitter
+isixhosa_241,isiXhosa,snezo ntaka inyama encane so,neutral,True,1,5,Twitter
+isixhosa_242,isiXhosa,ncubukezim very goodkaloku bathi ianc ngumbutho wam suffer ke,neutral,True,1,9,Twitter
+isixhosa_243,isiXhosa,just went to back to december 2005 just copped my first lacoste ngishaye ilambada impilo bekuyintokozo at the time,negative,True,4,18,Twitter
+isixhosa_244,isiXhosa,just join the march mhlekazi,positive,True,2,5,Twitter
+isixhosa_245,isiXhosa,sizwedhlomo and at this rate kushoda konke sisenjeni ngempela,neutral,True,2,9,Twitter
+isixhosa_246,isiXhosa,marvin he’s forever smilinghleli nje ungunqekeinoba ulala iindlathi zibuhlungu🙄,negative,True,1,10,Twitter
+isixhosa_247,isiXhosa,muvhangotshedza 😂😂 so uyalila ke ngoku,negative,True,1,5,Twitter
+isixhosa_248,isiXhosa,jgz foundation frivolous ashonaphi amahloni kule foundation isn’t that the patrons middle name,neutral,True,2,14,Twitter
+isixhosa_249,isiXhosa,sigujana za akwenziwa ke lokhu usumehlulile umendo already iqebeqebe,neutral,True,1,9,Twitter
+isixhosa_250,isiXhosa,she must unlock her account simngene kakuhle 😎,positive,True,2,7,Twitter
+isixhosa_251,isiXhosa,ta size syzalouw so you really think mokotjo would be a backup to zwanecabanga kahle mfo,negative,True,6,16,Twitter
+isixhosa_252,isiXhosa,rawcrudo when we have imisebenzi we usually slaughterbe it a cow goat or sheep the meat from that animal that was slaughtered yiyo inyama yomsebenzi,positive,True,11,25,Twitter
+isixhosa_253,isiXhosa,if its directed to me then its definitely personal nibaqela kakubi abantu nina,negative,True,2,13,Twitter
+isixhosa_254,isiXhosa,a zintonga lutho angishongo njalo😂 ngiyakukholwa😊,positive,True,1,6,Twitter
+isixhosa_255,isiXhosa,lizanjee funeka singavumi ukuvalelwa this time ngekhe kaloku😭,negative,True,1,8,Twitter
+isixhosa_256,isiXhosa,miss nzie thina esi allergic to everything 🍄🥜 meat 🍖🥩 ngiba no twayi for days lo 🍍 kuvaleka amehlo kudumbe umlomo 🤷,negative,True,1,18,Twitter
+isixhosa_257,isiXhosa,andiyivha kakuhle ke le but i’ll wait…,positive,True,3,8,Twitter
+isixhosa_258,isiXhosa,clibo sa1 i need to heal mhlekazi,positive,True,1,7,Twitter
+isixhosa_259,isiXhosa,gamabtweets ay nono it cant kills you kaloku,neutral,True,3,8,Twitter
+isixhosa_260,isiXhosa,my partner promised to give me the whole world nizohlalaphi kengoku nina guys,positive,True,3,13,Twitter
+isixhosa_261,isiXhosa,zwelethuo uxolo 😬 i hope you won,positive,True,2,6,Twitter
+isixhosa_262,isiXhosa,the siya crew has been informed that thamsanqa gabuza will not be leaving supersport united while iqraam rayners has found himself a new home slsiyaread more,positive,True,11,26,Twitter
+isixhosa_263,isiXhosa,shimza01 is the best dj in the country… my opinion doesn’t really matter but i know music kunye,neutral,True,8,19,Twitter
+isixhosa_264,isiXhosa,2022africa kanti what is it with you guys and not adding sugar to amasi😂😂,positive,True,6,14,Twitter
+isixhosa_265,isiXhosa,kubekho laaalgoa bus company here in gq yhoo oodriver bacinga baqhiba amaphelajikileza soze uyinuke imali yakho kubo,positive,True,1,17,Twitter
+isixhosa_266,isiXhosa,hehake why do my feet hurt should i call that baby advocate now or tomorrow kengoku,negative,True,9,16,Twitter
+isixhosa_267,isiXhosa,usathi ukwi emergency ye xxxvideos ngapha kmele ucacise ukba youre not a robotreally now 🙄,neutral,True,3,14,Twitter
+isixhosa_268,isiXhosa,soso spayi lol kanti yintoni ke gqeberha,negative,True,1,7,Twitter
+isixhosa_269,isiXhosa,yaya is that makazi there bbtitans,neutral,True,3,6,Twitter
+isixhosa_270,isiXhosa,one person followed me automatically checked by,neutral,True,1,7,Twitter
+isixhosa_271,isiXhosa,nandemabulu ngicela ungiphe your plug 😂,positive,True,1,5,Twitter
+isixhosa_272,isiXhosa,one thing about me i’ll call umzali because ungumzali 😉,positive,True,3,10,Twitter
+isixhosa_273,isiXhosa,nkosi dlamini angithi uyeva kelihle le planweve been fed mediocrity for far too long,negative,True,1,14,Twitter
+isixhosa_274,isiXhosa,portiamabunda ai i hope ta msi kaloku they killed u tamnci my fav 💔,negative,True,3,13,Twitter
+isixhosa_275,isiXhosa,solphendukaa hai kabi bahlali u jst cant with my child soze klkkunganuka kungabolanga,neutral,True,2,13,Twitter
+isixhosa_276,isiXhosa,akonpsj kaloku ngamabhongo omzali and when ku thethwa people say abantu banomona,negative,True,2,12,Twitter
+isixhosa_277,isiXhosa,nolutandoa realblackcoffee lol haa khange andiphendule umkhuluwa funeka aqale asadvize nge blukwe ezinananzelayo uba ithini into yazo,negative,True,1,17,Twitter
+isixhosa_278,isiXhosa,🧔🏿 windhoek please🧑🏻 wena mhlekazi👨🏾‍🦲 namibia,positive,True,1,5,Twitter
+isixhosa_279,isiXhosa,mdunkosi9 hybreed 🙆🏽‍♂️😂😂😂lutho bhuti sekusile yini ngithi yonke lento i phupho,positive,True,1,11,Twitter
+isixhosa_280,isiXhosa,they kiss outside now bethuna,neutral,True,2,5,Twitter
+isixhosa_281,isiXhosa,misuzuluking his majesty theisilungu ngamasiba to be honestokanye sisjoji,neutral,True,1,9,Twitter
+isixhosa_282,isiXhosa,so saada soze aphinde akhokhe lemali 😬,positive,True,1,6,Twitter
+isixhosa_283,isiXhosa,advobarryroux jonga they dont love us,negative,True,4,6,Twitter
+isixhosa_284,isiXhosa,just got home from gym and i actually want to pass out and sleep ndivuke ngomso at 6am,neutral,True,6,18,Twitter
+isixhosa_285,isiXhosa,lizol12 you must see it now akhonto ingamoshakalanga 🤮,negative,True,3,8,Twitter
+isixhosa_286,isiXhosa,sibusisond its alot more than enough for me phofu,neutral,True,2,9,Twitter
+isixhosa_287,isiXhosa,nkoskhodola 23 of course we are unbeatable right now and akhonto nizoyenza ngalonto,negative,True,4,12,Twitter
+isixhosa_288,isiXhosa,busiswa stemele eish kubanjalo but ingxaki ze2 zisibangela sinyamezele noba kunzima🥺😭 kuba abantu bakuzama ude uphuncukelwe sisimilo,negative,True,2,17,Twitter
+isixhosa_289,isiXhosa,shegeminiaf yesana ndiyithe jep inoba ngumona klk there’s nothing else…yhuuu omonashe🤭,negative,True,1,13,Twitter
+isixhosa_290,isiXhosa,busiswa stemele 😂 kaloku yhihobby umatras apha kuthixa wena usithi my hobby is reading booksthina sithi my hobby is bedding someone,positive,True,4,20,Twitter
+isixhosa_291,isiXhosa,kleanique h p mzwanelemanyi explain the low carbs thing mhlekazi,positive,True,1,10,Twitter
+isixhosa_292,isiXhosa,real kingsfiso maybe u living with the biggest lie endlini awenze idna yengane uyeke amanga akude unake aseduze kwakho,neutral,True,2,19,Twitter
+isixhosa_293,isiXhosa,msendi1 advobarryroux jonga mntase wena you know us so well 🤗,negative,True,3,10,Twitter
+isixhosa_294,isiXhosa,my birthday is this fridayguys ngicela ama present niyezwa,neutral,True,3,9,Twitter
+isixhosa_295,isiXhosa,nomagugusamke nikitareturn mntase forgive her when you’re ready not xa ecele uxolo cz chances are she won’t abafuni acknowledga and apologise bona,positive,True,6,24,Twitter
+isixhosa_296,isiXhosa,ewnupdates kanti intoni ayaziyo lozavolo everything his asked about the answer always is i dont know im not aware i never knew about it,negative,True,9,24,Twitter
+isixhosa_297,isiXhosa,recovery run runningwithtumisole fetchyourbody2022 i met umxhosa wakuthi then everything started 2 make sense bethunana😂,positive,True,1,14,Twitter
+isixhosa_298,isiXhosa,umntu athi ufuna a tall dark and handsome guy eloxesha yena sisgaqa sestiff papa,negative,True,2,14,Twitter
+isixhosa_299,isiXhosa,this sisi zange sikhule sisenga irice okanye ioats thina,neutral,True,1,9,Twitter
+isixhosa_300,isiXhosa,i learnt that financial lessons are for people with money otherwise kum ingxaki eqale yafika ndizojongana nayo 🤷🏿‍♂️,negative,True,4,17,Twitter

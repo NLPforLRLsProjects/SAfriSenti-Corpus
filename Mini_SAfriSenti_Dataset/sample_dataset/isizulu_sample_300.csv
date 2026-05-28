@@ -1,0 +1,301 @@
+sample_id,language,text,sentiment,code_switched_english,english_token_count,word_count,source
+isizulu_001,isiZulu,"loadshedding has me on chokehold😫, but im seeing the tweets ukuthi ipeleng won💃🏽 im so happy for her first female to win this season arena games💪🏼 bbtitans",negative,True,11,27,Twitter
+isizulu_002,isiZulu,"a beautiful song inspired by unconditional love teddy souls vocals, yeses🔥🔥🔥🙌🙌 umshado",positive,True,3,12,Twitter
+isizulu_003,isiZulu,cabonena go to nyanga and gugulethu as well as cape flats you will find all your answers,neutral,True,7,17,Twitter
+isizulu_004,isiZulu,"ikuku ikhothwa umhlaba wonke, xa ungayikhothi its fine vele amanye amadoda atabanekile thats not against the law",negative,True,3,17,Twitter
+isizulu_005,isiZulu,fine uzong tshela come poland,neutral,True,1,5,Twitter
+isizulu_006,isiZulu,keng nkare siya is also fading into the background🫠,negative,True,2,9,Twitter
+isizulu_007,isiZulu,sisi wait ngibathanda ubayede nokamayisela bakithi drama🥺 humble people,negative,True,2,9,Twitter
+isizulu_008,isiZulu,hau kanti this is true😂😂eh hhayi bengithi badlala ngami,negative,True,2,10,Twitter
+isizulu_009,isiZulu,maman nelly tshela may god bless you,neutral,True,1,7,Twitter
+isizulu_010,isiZulu,"senzo solo ngifuna libhodo mine malume, umshana akahambe ayodweba ke loku ete ema data endlini😂😂😂",positive,True,1,15,Twitter
+isizulu_011,isiZulu,"mtn bushfire is pleased to announce e262,45563 in sponsorship for festival beneficiaries in 2022 more on nota fromscratchnetflix",neutral,True,6,17,Twitter
+isizulu_012,isiZulu,"siya prosper nene it doesnt not matter how he received it, naye kumele athwale koilluminati njengocassper ukuze aphumelele",negative,True,4,18,Twitter
+isizulu_013,isiZulu,"nine anger, nina engekho let this shit go there are more pressing issues that require this type of energy yall want to be woke ni woke ke bakithi yoh",negative,True,8,29,Twitter
+isizulu_014,isiZulu,anita anita kutheni kwamele sinifundise ukukhuluma say i anita the kind of man im attracting in my life then ubuze uthi is it me or the kind that im attracting😎😎,negative,True,12,30,Twitter
+isizulu_015,isiZulu,indlala izonbulala lol,negative,True,1,3,Twitter
+isizulu_016,isiZulu,cabanga sowuyisa ikuku kulo for maintenance soze 🤣🤣🤣,neutral,True,1,7,Twitter
+isizulu_017,isiZulu,no hayi chiefs ayikwazi nje ukudlala ibhola 😂😂😂this is painful to watch 🤦‍♂️🤦‍♂️🤦‍♂️🤦‍♂️🤦‍♂️🤦‍♂️🤦‍♂️🤦‍♂️🤦‍♂️🤦‍♂️🤦‍♂️🤦‍♂️🤦‍♂️,positive,True,4,12,Twitter
+isizulu_018,isiZulu,those are the results of squeezen nathi cabanga nje on a pig homo sapiens are a disappointment at times,neutral,True,9,19,Twitter
+isizulu_019,isiZulu,"nolz1 this is sad , hopefully uzofumana omnye umsebenzi umke apho your mental health is important",neutral,True,8,15,Twitter
+isizulu_020,isiZulu,ukhozifm time ☕siqhubeka yayizolo sizokhuluma nosibhalele othi uyalazi iqiniso ngodaba lwabhuti obesibhalele,positive,True,1,12,Twitter
+isizulu_021,isiZulu,hahahaatleast you can tshela litre petrol,positive,True,2,6,Twitter
+isizulu_022,isiZulu,chif drop those siya stories now,neutral,True,2,6,Twitter
+isizulu_023,isiZulu,mbanje is medicine for the bodyi wonder what manje is considered a crime,positive,True,5,13,Twitter
+isizulu_024,isiZulu,with love amanga omntomdala,negative,True,2,4,Twitter
+isizulu_025,isiZulu,i must admit that every time when you post isithombe sakho i feel something i cant explain angisho ukuthi ngithini but ngidlula ngo like ❤️ ngithule you are so gorgeous,negative,True,12,29,Twitter
+isizulu_026,isiZulu,black cofe wake wagezela bani guys lento bathanda kangaka umsukela,positive,True,1,10,Twitter
+isizulu_027,isiZulu,not even😭 it was a picture of me and my mum cabanga,negative,True,8,12,Twitter
+isizulu_028,isiZulu,reached point almostactualy buying fotbalnba jersey awukaze ujole afraid 😭,negative,True,1,9,Twitter
+isizulu_029,isiZulu,"it’s actually 2k ba cheap kabi lapho, ulenze kuphi ikhanda usisi nam ngiye",negative,True,1,14,Twitter
+isizulu_030,isiZulu,yhoo here i’m surprised ukuthi njani manje,neutral,True,1,8,Twitter
+isizulu_031,isiZulu,"we buddied for life🤣🤣🤞🏻, im glad you added me in your book of lifekhululeka friend🙏",positive,True,7,15,Twitter
+isizulu_032,isiZulu,iwe siya ade waanoda who are you to try and tell holly wekuda newekusada mudeka wega winky wacho wosiya vasingamude vasamude wega haugaye here,positive,True,5,24,Twitter
+isizulu_033,isiZulu,sambo inganekwane for the babies,negative,True,2,5,Twitter
+isizulu_034,isiZulu,lol they just show up so theres no need to call themqhubeka😂😂😂,positive,True,8,12,Twitter
+isizulu_035,isiZulu,"mrlungisa macalonke mani, oopopayi needrama kuyaliwanje and ubonuba kukhutazwa ubugebenga ngenxa zonke😭😭😭",negative,True,1,12,Twitter
+isizulu_036,isiZulu,ngicela ungiyeke please 😅,positive,True,1,3,Twitter
+isizulu_037,isiZulu,pallnandi me telling my womanwe still have 3 chances my love lowo akahamabe somfica phambili,positive,True,6,14,Twitter
+isizulu_038,isiZulu,"10 abanye bakhiphela i hurt yabo lana, cha no tshela lona awakuzwisa i buhlungu hayi phela sowfaka nathi kuma personal problems",negative,True,4,20,Twitter
+isizulu_039,isiZulu,"dzumasambudla indoda must be hated by abelungu, indoda ngempela ke leyo",positive,True,3,11,Twitter
+isizulu_040,isiZulu,chiefs ngisa cela umsebenzi we coach tuu,neutral,True,1,7,Twitter
+isizulu_041,isiZulu,guys kodwa sjava really goes in on ithuna 🎼 izitha zam yim yim yim,negative,True,4,13,Twitter
+isizulu_042,isiZulu,icymi ‘imbewu the seed’ draws to a close after five years of dramaread more,neutral,True,4,14,Twitter
+isizulu_043,isiZulu,"sawubona mangobese, pls check your dms kunomlayezo engawuthumela ngicela uwufunde bese uwucubungula ngingathokoza gamndanexongo 🙌🙌",positive,True,1,14,Twitter
+isizulu_044,isiZulu,the cook izinto esenzwa zona ngenxa yemaliaskies sisi,neutral,True,1,8,Twitter
+isizulu_045,isiZulu,n u find theres lutho to grab,negative,True,1,7,Twitter
+isizulu_046,isiZulu,lutho sthandwamina sengithi cha you have replaced me 😢,negative,True,3,8,Twitter
+isizulu_047,isiZulu,mphozeeramare hayi condom + contraceptives vele umzimba ekugcineni udinga i maintenance even pregnancy ruins bodies okwakho njengo muntu ukusinakekela,positive,True,1,18,Twitter
+isizulu_048,isiZulu,sibonga umdali ukuthi y’all still alive ♥️🥺 god is good🙏💍,positive,True,3,10,Twitter
+isizulu_049,isiZulu,mese mayekuhlala umuntu wakhona afune u asepthe kalula nje ukuthi its overyeeses,negative,True,1,12,Twitter
+isizulu_050,isiZulu,"sphaofficial good morning nqoba, how are youim well thank you spha will answer the question, as it is his party mina angaz lutho",negative,True,10,23,Twitter
+isizulu_051,isiZulu,"the fergusons sebaya hluleka ae, just like the queen nje",positive,True,3,10,Twitter
+isizulu_052,isiZulu,nawe umuhle kakhulu usibangela tinkinga 🙆🏽‍♀️🤣🤣 haythis our favthembabroly on mzansi magic tomorrow 8pm👀📹❤️‍🔥themba my inked world thembamyinkedworld,negative,True,4,18,Twitter
+isizulu_053,isiZulu,wonder taste kanjani love wakho m bakithi,positive,True,1,7,Twitter
+isizulu_054,isiZulu,"cabanga, i would neverwe getting chicken licken on me",neutral,True,4,9,Twitter
+isizulu_055,isiZulu,malunga ek se inganekwane lena jho or,negative,True,1,7,Twitter
+isizulu_056,isiZulu,you can bounce back from anything 🙏 🕯️ siyasm®️,positive,True,3,7,Twitter
+isizulu_057,isiZulu,eka chris brown ingikhumbuza omunye ubhuti odumile la on the tl 🤭,neutral,True,2,11,Twitter
+isizulu_058,isiZulu,"umzimba uvesane ulindele itext from someone, kanti lutho",negative,True,1,8,Twitter
+isizulu_059,isiZulu,sibonga nje ukuthi they didn’t kill zweli’s character theriver1magic,negative,True,1,12,Twitter
+isizulu_060,isiZulu,ba melomu original mix via e a tshela e🤌🏾,neutral,True,1,9,Twitter
+isizulu_061,isiZulu,nonom i know trust me people still lack real knowledge ubezwe bethi yi aids uvele ubone ukuthi weh,neutral,True,5,18,Twitter
+isizulu_062,isiZulu,"and kwa manje, i don’t mind ke",neutral,True,2,8,Twitter
+isizulu_063,isiZulu,"lol, i’m just a person of habit i get the same thing every time so manje i’d rather leave than try something new and be disappointed",positive,True,12,28,Twitter
+isizulu_064,isiZulu,olan1 🤣manje thina we don’t deserve small gestures on the day,neutral,True,4,12,Twitter
+isizulu_065,isiZulu,i suspect ukuthi there’s only 3 of us left💔,negative,True,2,9,Twitter
+isizulu_066,isiZulu,were just check ukuthi usasesafe,neutral,True,2,5,Twitter
+isizulu_067,isiZulu,toyotasa ama cab ase bhamshela lawa and montebello 😂 kodwa sengathi nine haba kancane,positive,True,1,13,Twitter
+isizulu_068,isiZulu,"official kuningi, matebeleland is not valued, yonke into yenzwa yimigodoyi yempumalanga",neutral,True,2,11,Twitter
+isizulu_069,isiZulu,manje its empty promises every year,negative,True,2,6,Twitter
+isizulu_070,isiZulu,uqalile 🤣🤣🤣🤣🤣😂 ngempela futhi its one in the same siyavannasa savannaalcfree,positive,True,3,10,Twitter
+isizulu_071,isiZulu,lendiya seliza lavuvukala ubuso kule project of👉🏿lets hate zuma jacobzuma,positive,True,2,11,Twitter
+isizulu_072,isiZulu,k sbwl unitshixela endlini emnyama noba yi 4 days but also knowing ibhele lingahlala ekoneni and try or do nothing 😭😭,negative,True,4,19,Twitter
+isizulu_073,isiZulu,bayang’ bhora cz hlezi kushiwo into ey1 in these situations,negative,True,2,10,Twitter
+isizulu_074,isiZulu,just in nyanga – inside the night vgg+,neutral,True,3,7,Twitter
+isizulu_075,isiZulu,my balance kept declining ngabona ukuthi angikhiphe ingaze iphele yonke,neutral,True,1,10,Twitter
+isizulu_076,isiZulu,now i’m curious wenzani manje,neutral,True,2,6,Twitter
+isizulu_077,isiZulu,nqobile must accept ukuthi kuphelile myinkedworld,neutral,True,1,6,Twitter
+isizulu_078,isiZulu,"skoch hhayi bo,those cheeks bring the beauty uthini manje wena",positive,True,2,11,Twitter
+isizulu_079,isiZulu,they should admit ukuthi,negative,True,2,4,Twitter
+isizulu_080,isiZulu,i had 40+ friends ehigh school and we use to call ourselves ezase afro and we used that term kakhulu sibizane ngama ntaliyane 😂😂,positive,True,10,22,Twitter
+isizulu_081,isiZulu,"repo rate is up, asinciphise kancane kuma photo dump nepressure yesoft life",positive,True,1,12,Twitter
+isizulu_082,isiZulu,a siya with dimples jennie honey i understand completely bbtitans,negative,True,3,10,Twitter
+isizulu_083,isiZulu,siya and miracle look like twins,neutral,True,1,6,Twitter
+isizulu_084,isiZulu,for iweekend yonke mina🥰,neutral,True,1,4,Twitter
+isizulu_085,isiZulu,m bese lana kuthiwa asibe nemikhaba yet every one is drooling over i6pack yentwana,positive,True,2,15,Twitter
+isizulu_086,isiZulu,ukuthi kusuka namhlanje no more loadshedding,neutral,True,2,6,Twitter
+isizulu_087,isiZulu,dasilva inkinga enkulu a abhaliwee ubusweni 😩,negative,True,1,6,Twitter
+isizulu_088,isiZulu,ngcobo she was cheating bro alright hence these accusations manje she thought nawe uya cheater,neutral,True,4,15,Twitter
+isizulu_089,isiZulu,khohlwa 😭 greatest african player time conquered spain conquered italy conquered africa conquered rusia present samuel fils 💪💯,negative,True,1,16,Twitter
+isizulu_090,isiZulu,sa there so many stories surrounding this incident 🤣🤣 manje sekuthiwa yimusic video mxm,neutral,True,2,13,Twitter
+isizulu_091,isiZulu,yandiey intliziyo and nditheleleni something asahamba phambili so far,negative,True,2,9,Twitter
+isizulu_092,isiZulu,its giving i never liked you from the moment i met you 🫣 slee vs jojo manje 😭😔 rhodurban s3,negative,True,8,18,Twitter
+isizulu_093,isiZulu,it is i dalud denzel m awu kodwa bakithi not again💔😭,negative,True,5,11,Twitter
+isizulu_094,isiZulu,when it all aligns kancane kancane 🙏🏾❤️,positive,True,1,6,Twitter
+isizulu_095,isiZulu,sengikhathele ngempela manje i cant be crying everyday,positive,True,2,8,Twitter
+isizulu_096,isiZulu,n2 very tired sedlalisa okwa sekgota manje 🚮,neutral,True,2,7,Twitter
+isizulu_097,isiZulu,"at least 99 of the time siyavumelana, mangethe qha apho singavumelani khona and thats ok",positive,True,6,14,Twitter
+isizulu_098,isiZulu,reactionary takesthey were good kodwa one of the besthai awume kancane,positive,True,4,11,Twitter
+isizulu_099,isiZulu,i actually cannot stand qiniso,neutral,True,1,5,Twitter
+isizulu_100,isiZulu,someone is screaming at the top of his lungs in the streetichiefs iwinile nizwile ichiefs iwinile 😂😂😂amadoda be bhola,negative,True,7,19,Twitter
+isizulu_101,isiZulu,i’m thankful to god ngayo yonke into andenzela yona 🙏🏿,positive,True,2,10,Twitter
+isizulu_102,isiZulu,why is our tourism government sponsoring tottenham hotspur soccer team e based in london close to r1 billion yonke 🙆🏼‍♂️,positive,True,6,19,Twitter
+isizulu_103,isiZulu,angilala wuloyo doti😢ngicaba ukuthi uwhere have you been ufike noshuni ohambayo😏,negative,True,3,12,Twitter
+isizulu_104,isiZulu,gadifele njengoba nithakathan kangaka i dout ningazwan,positive,True,1,7,Twitter
+isizulu_105,isiZulu,21 kodwa nani lungile when we cheat dont cheat back asizona imbokodo phela,neutral,True,1,12,Twitter
+isizulu_106,isiZulu,phambili with mkhabolobum reading session,positive,True,1,5,Twitter
+isizulu_107,isiZulu,"hey, and its white peoples problems ngempela hahahaaaa",negative,True,3,8,Twitter
+isizulu_108,isiZulu,sgadi28 akukho kit yechiefs angenayo both home and away ndiyarhana uba ikhona imali ayifumana ngondlelamnyama,negative,True,2,15,Twitter
+isizulu_109,isiZulu,😂 sump sule threads sump cause tsone sule bereka tshela atleast leaking alot hope water find,positive,True,1,15,Twitter
+isizulu_110,isiZulu,times were simpler when we woke up to watch siphiwe navigate rural kzn kuyanyiwa manje,neutral,True,3,15,Twitter
+isizulu_111,isiZulu,gogo knocked me when she said cishe ngafa 😅🤣😅🤣🤣 isencanelengane,negative,True,3,9,Twitter
+isizulu_112,isiZulu,ay leyo isazokhuphuka this year kmele ufune ngayo umsebenzi 😂😂😂 and uzowuthola 🤞😊,positive,True,3,11,Twitter
+isizulu_113,isiZulu,masibulele kumdali ukuthi you woke up sober and youre still sober at this time and youre gonna be sober today 😂😂😂 nibenosuku oluhle ke nobhutomncane,positive,True,9,24,Twitter
+isizulu_114,isiZulu,"seed9 you tell them ngabo my friend, theyll tell you ukuthi badla ngabo kunzima shem",negative,True,5,15,Twitter
+isizulu_115,isiZulu,boy7 ydb zn looool dont feel sorry for us please we love it this way😁😁😁 so kahle nje kancane khehla,negative,True,8,20,Twitter
+isizulu_116,isiZulu,not for unemployed men🙄🙄 uzozisola ✍️,neutral,True,2,5,Twitter
+isizulu_117,isiZulu,kindly advise ntate mahlangudid lungile assist youyou dont need further assistance,neutral,True,1,11,Twitter
+isizulu_118,isiZulu,sure jonga im sorry today angikho angikho right isisu sami sinenkinga ngicela kuqala next week please circle gardens,neutral,True,4,18,Twitter
+isizulu_119,isiZulu,ayi she must rest now even in 2007 waye contester ehambisana no mbeki akame kancane,positive,True,5,14,Twitter
+isizulu_120,isiZulu,"s join us, kuyafiwa board exams are coming in middle of march lapho umsebenzi wase legal aid ungange ntaba",neutral,True,4,19,Twitter
+isizulu_121,isiZulu,khululeka monday food music at orarestobar,neutral,True,1,6,Twitter
+isizulu_122,isiZulu,i been telling tall about bianca buka manje lionesssa,neutral,True,2,9,Twitter
+isizulu_123,isiZulu,sdarkd90 cabanga he came from a thousand timelines away,neutral,True,3,9,Twitter
+isizulu_124,isiZulu,nanonood na siya now,neutral,True,1,4,Twitter
+isizulu_125,isiZulu,luh 1 of my friend ufro wakhe wafaka amanzi abandayo ebhodwe waqhamuka nawe d time ehlile ksofa ebuka tv wamubhunyela ngawo wavele waquleka ezitshela ukt ayabila😂😂,negative,True,3,25,Twitter
+isizulu_126,isiZulu,ngicela ungiphe a betting code for today🙏🏾,positive,True,3,7,Twitter
+isizulu_127,isiZulu,"sebeznoro in all seriousness, isintu asivumi ukuthi ulale nomuntu kungashadiwe just because we’ve done wrong before doesn’t change the fact isintu simile asijiki",negative,True,6,25,Twitter
+isizulu_128,isiZulu,they are no longer after you 😂😂😂o tshela se fast and furious you have enemies 😂😂😂,negative,True,8,15,Twitter
+isizulu_129,isiZulu,"nizwile new sangomas must go to the clinic for treatment and stop this drama being sangoma is not a solution, arv is the only solution we know",neutral,True,15,27,Twitter
+isizulu_130,isiZulu,my tenant bakithi 😂😂,positive,True,1,3,Twitter
+isizulu_131,isiZulu,welele ushilo ukuthi strets shem god time,neutral,True,1,7,Twitter
+isizulu_132,isiZulu,"uthi uzivulela twitter etaxin boooomkumas ihleli obala osecelen anikine ikhanda ngath ubuka amanudes,kanti it everywhere",negative,True,1,16,Twitter
+isizulu_133,isiZulu,noma ngaba nje umzuzwana as long as ngiphethizinja zami ekasi siblome kumnandi,negative,True,2,12,Twitter
+isizulu_134,isiZulu,"xoli mha mxm kanti umncane kangaka, khululekake zisazokunetha, that was still an introduction",positive,True,4,13,Twitter
+isizulu_135,isiZulu,kwavela ukuthi waqalaphi🤣🤣💥💥💥nice onenamanje ngisaybuza ukuth wayekelan vele ukdansa🔥🔥🔥🔥,positive,True,1,10,Twitter
+isizulu_136,isiZulu,zn kade ngamubona ukuthi lo he is not sure,neutral,True,3,9,Twitter
+isizulu_137,isiZulu,wynona 🤣🤣🤣🤣🤣🤣🤣🤣yabona manje i’m laughing out loud like a fool and ngise offisini 🤣🤣🤣🤣,neutral,True,3,14,Twitter
+isizulu_138,isiZulu,sona2023 so there will be minister of electricity 😂 uyayaz inganekwane,negative,True,6,10,Twitter
+isizulu_139,isiZulu,"numbers dont lie fortunately we dont overhype our players if nyanga recovers from the slump, moririball will improve immensely",neutral,True,6,19,Twitter
+isizulu_140,isiZulu,lumi omuhle ✅✅ lalela umama omuhle ✅ ubaba ofully present in his child life ✅ this is dope ❤️❤️ lokhu yimvela kancane,positive,True,3,18,Twitter
+isizulu_141,isiZulu,the person responsible for our switch off block 9 lawley uyalala thina sisebenza ngeskhathi 1039 for 10h00 yesterday 1928 for 1800 hayi khana baba🥱,negative,True,6,20,Twitter
+isizulu_142,isiZulu,this wine ke kancane 😋😋😋,positive,True,1,4,Twitter
+isizulu_143,isiZulu,m 🤣🤭why you loud manje,neutral,True,1,5,Twitter
+isizulu_144,isiZulu,magoda mashinisa wami ngicela r600 requirements please,neutral,True,1,7,Twitter
+isizulu_145,isiZulu,they tell you they miss non stop 🛑 owazike lutho they talking about mdavazo😝,negative,True,5,13,Twitter
+isizulu_146,isiZulu,poverty mbulali notification si on,neutral,True,1,5,Twitter
+isizulu_147,isiZulu,"phoebie lol, zulisa kancane nje",positive,True,1,5,Twitter
+isizulu_148,isiZulu,he will tell us that thando makhubu has bought mcdonalds franchise with her 12 months r350 lo president wenu amanga wazalwa ewambethe,negative,True,6,21,Twitter
+isizulu_149,isiZulu,sanral za mfethu sorry and it’s been 2 months ngawo gcinai will look out for it 🙏🏽,negative,True,6,16,Twitter
+isizulu_150,isiZulu,before you drink to avoid conflicts start by paying your debts nina niba broke nikgolile nizwisana ubuhlungu😥😫,negative,True,4,17,Twitter
+isizulu_151,isiZulu,ay marn ntambama come work open space,neutral,True,2,7,Twitter
+isizulu_152,isiZulu,rd vele vele an’funi uk’cabanga,neutral,True,1,7,Twitter
+isizulu_153,isiZulu,we coming mfowethu kancane kancane,positive,True,2,5,Twitter
+isizulu_154,isiZulu,goba allow imbewu to be imbewu pls,neutral,True,2,7,Twitter
+isizulu_155,isiZulu,i hear her all of a sudden any hun with a nice body and a bit of booty did a bbl maye sifelani ngempela,negative,True,11,24,Twitter
+isizulu_156,isiZulu,keletsomss hawu cacile mos u were not making her happy 😂🥺,positive,True,3,10,Twitter
+isizulu_157,isiZulu,umuhle sisi🔥 ungazihluphi ngalaba abanenkinga ngawe standing bona bezonda ababo oyise akuyona inkinga yakho leyo people deal dady isues,negative,True,1,19,Twitter
+isizulu_158,isiZulu,ive never listened to ingoma kangaka yhu ipiano 🥹,positive,True,2,8,Twitter
+isizulu_159,isiZulu,"awao gcina, 40 😂🤣😂but thank you 😊😆",positive,True,3,5,Twitter
+isizulu_160,isiZulu,slee uzwe kahle kuthiwa i’m a private chef wathi she’s a caterer 😂😂😂 rhodurban,positive,True,4,15,Twitter
+isizulu_161,isiZulu,when sjava said phuma endlini siyayaz awukho e varsity your girlfriend felt that💔,negative,True,3,13,Twitter
+isizulu_162,isiZulu,fitty lol nifun izindaba,positive,True,1,4,Twitter
+isizulu_163,isiZulu,"ai bakithi,that police woman does not deserve jail ,shes a monster that thing man💔yoh im beyond defeated 😢",negative,True,6,19,Twitter
+isizulu_164,isiZulu,"inkinga yenu niyabanaka labantu they just want attention, hence please follow me guys in his thread",negative,True,7,16,Twitter
+isizulu_165,isiZulu,usheshe wayipopola ingozi that is impilo🤘🏽,negative,True,2,6,Twitter
+isizulu_166,isiZulu,r i g h t zyalila ke manje,neutral,True,1,8,Twitter
+isizulu_167,isiZulu,male sperm kodwa ekugcineni not female sperm,neutral,True,1,7,Twitter
+isizulu_168,isiZulu,aaaah so sweet please cela ninyuse kancane i from 5 to 10 i want to see something 😂😂😂🚀🚀🚀 ownyourcrown,positive,True,8,16,Twitter
+isizulu_169,isiZulu,wanna jam to inganekwane with us worry not weve got you cause its available on all digital music streaming platforms,negative,True,6,20,Twitter
+isizulu_170,isiZulu,bought sparkling water ngephutha rush tasted funy thirsty drank gave chance 🤣🫶🏽,negative,True,1,11,Twitter
+isizulu_171,isiZulu,"im around pe plz,ngicela support 🤲",neutral,True,1,6,Twitter
+isizulu_172,isiZulu,kwaah ubani lona and owaphi udume ngani bafo,neutral,True,1,8,Twitter
+isizulu_173,isiZulu,matshela sa prosecutes listen to engineering unishaya ngezamzwukwana manje 🤣😂🤣😂,positive,True,1,9,Twitter
+isizulu_174,isiZulu,"kay i feel bad for londi as much as i did for lachochowhen marriages fail hlezi kuzohlazwa the woman,it’s disgusting",negative,True,11,22,Twitter
+isizulu_175,isiZulu,you are not tired ulambile nje,neutral,True,4,6,Twitter
+isizulu_176,isiZulu,eusebius jerrrrr for amanzi,neutral,True,1,4,Twitter
+isizulu_177,isiZulu,26 uvin is too nice bra mnandi kakhulu when he is comfortable 🔥🔥🙌🏿,positive,True,4,11,Twitter
+isizulu_178,isiZulu,it feels good to rlsee our development stars rising to the occasion 7 phezulu masandawana,positive,True,6,14,Twitter
+isizulu_179,isiZulu,moja love yaze ya yenza umsebenzi wabo mabena tjo sizokthola,neutral,True,1,10,Twitter
+isizulu_180,isiZulu,lungile oh bang’chazelile nabo leyonto kunzima bakithi but i just wanted my child to have a place to call home 🥺,negative,True,10,21,Twitter
+isizulu_181,isiZulu,we want can back on tv macgunleashed and chillers thina asihlulwa lutho,negative,True,5,12,Twitter
+isizulu_182,isiZulu,a gona gore nka tshela sukiri nyana atleast aowa,neutral,True,1,9,Twitter
+isizulu_183,isiZulu,"varsity is harangueing but i stay because there are benefitseven emshadweni kuyanyiwa,but you stay because there are benefits of which can outweigh the cons",negative,True,12,25,Twitter
+isizulu_184,isiZulu,michaelbucwa 😂😂yes sengi relax kakhulu sengfuna stress nyana😂😂,negative,True,1,8,Twitter
+isizulu_185,isiZulu,umanyobi nyobi wenu on here is gonna stop people from finding ama phakade 😒😒,negative,True,4,13,Twitter
+isizulu_186,isiZulu,inganekwane is a masterpiece i dont wanna,negative,True,3,7,Twitter
+isizulu_187,isiZulu,animeni kancane time beautiful graphics lost team soweto,positive,True,2,8,Twitter
+isizulu_188,isiZulu,celebs are con artists and swindlers kancane kancane bayavela🙄😞,positive,True,2,9,Twitter
+isizulu_189,isiZulu,ekuseni kangaka mamzo lol,positive,True,1,4,Twitter
+isizulu_190,isiZulu,"muhle kakhulu umsebenzi owenzayo, economic freedom without a conscientised community will be meaningless",negative,True,3,13,Twitter
+isizulu_191,isiZulu,lol unamanga lo wazi kahle ukuthi uqabula indoda the tantrum ekugcineni uya pretend nje la you telling me ukuthi akayiboni lendoda 🤣🤣🤣🤣🤣,positive,True,4,21,Twitter
+isizulu_192,isiZulu,2 watevah 35rand dont worry it just a matter of few months truth will come out kancane kancane bayavala 🤣🤣,negative,True,6,18,Twitter
+isizulu_193,isiZulu,the cook ngicela ungilande sis fikza ndonele umzansi manje please hlee,neutral,True,2,11,Twitter
+isizulu_194,isiZulu,"tagal ko na siya gustong basahin, i think sign na",neutral,True,2,10,Twitter
+isizulu_195,isiZulu,lindokuhle8 great advice kuyalunga ekugcineni,positive,True,1,5,Twitter
+isizulu_196,isiZulu,lorenz ko cabanga only 2 shots on target,neutral,True,1,7,Twitter
+isizulu_197,isiZulu,singaphela yilabos’khotheni abangafundisekile umshaye kancane lezinto aziyeli ukuyofunda but ukwenzana namasimba eskoleni,positive,True,1,13,Twitter
+isizulu_198,isiZulu,i the river nje ayilethe umsebenzi wami wokuba yi writer and director angeke phela uzolani andize ayezulwini 1magictv,negative,True,3,18,Twitter
+isizulu_199,isiZulu,ngiyazobongela im vukile manje lol,positive,True,1,5,Twitter
+isizulu_200,isiZulu,"hayi 👀siya dlala, andinamntu and ndiyamazi lobhuti in real life",positive,True,2,10,Twitter
+isizulu_201,isiZulu,oksalayo izimali zethu lezi niyayintshonthsa lemali niphinde nihole kakhulu futh so some of us cant praise a fish for swimming omkhulunogogosgebengu,negative,True,4,21,Twitter
+isizulu_202,isiZulu,yinina inkinga yethu as a country pushing propaganda which schools did you all attend yerr niyahlaza shame,positive,True,4,17,Twitter
+isizulu_203,isiZulu,playing that album when i drive back up 🥺🤌🏾 inkinga ill have to get to jhb in 1 hour and 55 minutes,positive,True,7,19,Twitter
+isizulu_204,isiZulu,"ehhh kutheni ndinexhala kangaka,i wish this feeling could go away its been days now",positive,True,6,15,Twitter
+isizulu_205,isiZulu,8 durban merchandiser timesitesupport1woolworthsrecruitmentunilever umsebenzi not leya learnershipnimrodhartebeestsmollanrecruitment,negative,True,1,8,Twitter
+isizulu_206,isiZulu,"jalii good morning siya, how are you today",neutral,True,4,8,Twitter
+isizulu_207,isiZulu,"i am happy to hear ukuthi that is in the past, that was so damn childish of him hle",positive,True,12,19,Twitter
+isizulu_208,isiZulu,"zwane amankazana yes, utshwala choo 🤣🤣",neutral,True,1,5,Twitter
+isizulu_209,isiZulu,imbewu the seed draws to a close after five years of drama,neutral,True,4,12,Twitter
+isizulu_210,isiZulu,ngicela i order lami,neutral,True,1,4,Twitter
+isizulu_211,isiZulu,i really just wanna pack my bags and leave sekuright manje,neutral,True,5,11,Twitter
+isizulu_212,isiZulu,we have to change everything thats undoing josework starting by those that dont even make 18man squad n then we will trim it kancane kancane,negative,True,9,25,Twitter
+isizulu_213,isiZulu,siya and this delilah song🤣🤣,neutral,True,2,5,Twitter
+isizulu_214,isiZulu,bayomu tshela kuthi alivale nini izwe futhi 🚮 lockdown is coming soon,neutral,True,2,11,Twitter
+isizulu_215,isiZulu,good day athingicela igala dinner ticket 🎟 please,neutral,True,2,7,Twitter
+isizulu_216,isiZulu,awume kancane please,positive,True,1,3,Twitter
+isizulu_217,isiZulu,"saphuma ne +3 points , phansi esgodini kodwa its not like bebengazi next",negative,True,2,11,Twitter
+isizulu_218,isiZulu,🥰 cabanga cause my daughter is joining this society,neutral,True,3,8,Twitter
+isizulu_219,isiZulu,"like, as a yuphi community, were all just mizing ukuthi in about 2 weeks we have to b2 back in hatfield or i didnt get the memo",positive,True,12,26,Twitter
+isizulu_220,isiZulu,"uwumoshile umsebenzi wakhe omhle, how could he not play south african international anthem that united the world against covid19💔",negative,True,5,19,Twitter
+isizulu_221,isiZulu,rsa skywalker three broers from your team had to stop him cabanga 👀,positive,True,5,12,Twitter
+isizulu_222,isiZulu,ngicela you follow me back sikhulume inkomo zikhona bandla,neutral,True,2,9,Twitter
+isizulu_223,isiZulu,sekulate manje try again tomorrow,neutral,True,2,5,Twitter
+isizulu_224,isiZulu,089 ok xhosa ladies bayazama i see umjolo ufunwa phabntsi phezulu nesinigerian babu igbonyana🤣🤣🤣,positive,True,2,13,Twitter
+isizulu_225,isiZulu,hoja bonyane enele teng bro neketlo tshela poone🤣🤣🤣 jwale im a broke nigga,neutral,True,1,13,Twitter
+isizulu_226,isiZulu,kancane kancane you are seeing the light 😂,positive,True,3,7,Twitter
+isizulu_227,isiZulu,o tshela se frank that’s enough 😂,positive,True,1,7,Twitter
+isizulu_228,isiZulu,inokushona phansi baft2 just accept the challenge of the world,negative,True,4,10,Twitter
+isizulu_229,isiZulu,"nolwazinkomo5 shut your ass up why are you talking from there thats probably why there is so much hate, must take it out iqiniso libuhlungu",negative,True,9,25,Twitter
+isizulu_230,isiZulu,kush o tshela se right now,neutral,True,2,6,Twitter
+isizulu_231,isiZulu,"you are very consistent🤣🤣🤣🤣🤣 qhubeka, iyeza",neutral,True,3,6,Twitter
+isizulu_232,isiZulu,kona utshwala ngingabujabulela namhlanje too bad i’m on this cleanse🙄,neutral,True,4,11,Twitter
+isizulu_233,isiZulu,obsesion haters people concerning person positive reactions content decide focus negative reactions stupid trols complain haters yini kangaka kodwa,negative,True,1,19,Twitter
+isizulu_234,isiZulu,imagine unyathelwa ngomnye ngapha and kwelinye icala udj cut the song at your favourite part,negative,True,4,15,Twitter
+isizulu_235,isiZulu,kancane kancane baya vela i have many enemies,positive,True,2,8,Twitter
+isizulu_236,isiZulu,"people thought we were mean for saying mphowabadimo deserves better, buka manje 🤦🏽‍♀️",neutral,True,4,12,Twitter
+isizulu_237,isiZulu,i can’t believe ukuthi one day i just decided i am never drinking alcohol again and i never looked back,neutral,True,11,21,Twitter
+isizulu_238,isiZulu,co hebanna this taxi driver manje why kill people just like that,positive,True,4,12,Twitter
+isizulu_239,isiZulu,mr mvubu is having it hard useyahlanya kakhulu theblackdoor,negative,True,2,9,Twitter
+isizulu_240,isiZulu,kuthiwa we’re just label whores,neutral,True,2,6,Twitter
+isizulu_241,isiZulu,"transmagnific ncesi, bangikhuba kakhulu labo bantfu labo, more than once i got shtty service from them zange ngaphindza",positive,True,3,18,Twitter
+isizulu_242,isiZulu,sandilekamsibi i was about to ask ukuthi angenaphi amapyjama🤣🤣,neutral,True,3,9,Twitter
+isizulu_243,isiZulu,son tubatse mahudum be ke se ka tshela center morwarre,neutral,True,1,10,Twitter
+isizulu_244,isiZulu,when he order amanzi and forgetting wallet,neutral,True,2,7,Twitter
+isizulu_245,isiZulu,umsebenzi wethu is not their song iyntsimbi zase envygtulazi,neutral,True,3,9,Twitter
+isizulu_246,isiZulu,choenyane checker iphone not ukuthi ngigcine nin ukukhuluma nabantu uyaphi lapho,neutral,True,1,11,Twitter
+isizulu_247,isiZulu,kuthiwa you are causing anarchy by exercising your legal rights,neutral,True,4,10,Twitter
+isizulu_248,isiZulu,phad 😹 yoh nawe waze walikhuni iqiniso ngam angaz nabanye kodwa keah if ngingathola yena 😩i wouldnt even look at girls,positive,True,3,20,Twitter
+isizulu_249,isiZulu,dear god you once gave me a flat tummy ngiyavuma ngaybhubhudlala here i am humble and on my knees ngicela eyokugcina angeke ngisaybhubhudlaamen,positive,True,8,23,Twitter
+isizulu_250,isiZulu,i pray to god 2023 is better than 2022 coz cishe ngashona,positive,True,3,10,Twitter
+isizulu_251,isiZulu,admin engaka cabanga can never be me,positive,True,4,7,Twitter
+isizulu_252,isiZulu,"percyshayamunda bongi vele ke amakwerekwere azi ukuth yonke into, yomali lutho boet, fanele sikhulume ngento ezenzeka ezweni lethu, regardless i level of education",negative,True,3,23,Twitter
+isizulu_253,isiZulu,people’s bodies have nothing to do with us haibo uxakwe yini ngempela,positive,True,5,13,Twitter
+isizulu_254,isiZulu,hlezi o le out and about 🥹🥹,neutral,True,1,6,Twitter
+isizulu_255,isiZulu,"thisha omuhle sengabeka umoya phansi with shoes, its new year, new feet, eza last year sihlezi siphisana ngazo izocathulo",negative,True,4,19,Twitter
+isizulu_256,isiZulu,"yeah, i am listening khuluma",neutral,True,2,5,Twitter
+isizulu_257,isiZulu,k orlandopirates abayeke ngempela i’m fed up,positive,True,1,8,Twitter
+isizulu_258,isiZulu,"laze lalihle ikhaladi egym, manje she has those short perm hair and kulabo your kaffir poes uphuma fast la",positive,True,6,19,Twitter
+isizulu_259,isiZulu,"okay sho ke, mara amanga wona, haa please siyacela 🤣😂🤣😂🤣😂",positive,True,2,9,Twitter
+isizulu_260,isiZulu,gee 😂😂 sizwa ngawe ukuthi mina angijoli and wena uyajola sthandwa😊,positive,True,1,10,Twitter
+isizulu_261,isiZulu,amanzi awenzi mohluko but i will not give in to temptation,neutral,True,6,11,Twitter
+isizulu_262,isiZulu,ngicela ukuba kwi home alone my number 0788699621,neutral,True,2,7,Twitter
+isizulu_263,isiZulu,sh i just got home cabangasilinde wena,neutral,True,3,7,Twitter
+isizulu_264,isiZulu,"ask malema zikhala manje court, he even complained that they threatened him because he is against the state",positive,True,7,18,Twitter
+isizulu_265,isiZulu,"not getting along with your in laws looks really stressful im watching nganele and into ka gcina is just 😖 sabelo even said if it came down to it, hed choose his family",negative,True,13,32,Twitter
+isizulu_266,isiZulu,ramaphosa didnt appoint minister of fishoil kade amafutha ebiza kangaka,positive,True,2,10,Twitter
+isizulu_267,isiZulu,poshteedkay mankaeza i agree with you nangu muntu eqamba amanga ngamadlozi,negative,True,3,11,Twitter
+isizulu_268,isiZulu,thank you drizzy drake for reminding me why ndibelievea kangaka 😭🙏,positive,True,4,10,Twitter
+isizulu_269,isiZulu,uya phezulu or uyehla 😂😂😂😂😂😂,positive,True,1,4,Twitter
+isizulu_270,isiZulu,presidencyza bayabona ukuthi silunge kakhulu imagine lomuntu who was writing this tweet nje bekuthini ekhanda lakhe ngoba uyaz ayikho yonke lento ayibhalile,negative,True,2,22,Twitter
+isizulu_271,isiZulu,ngicela sibe realistic just for 2 minutes jeez,neutral,True,2,7,Twitter
+isizulu_272,isiZulu,"i wonder what her goal is ,like the story behind,khona okushaya amanzi la",positive,True,3,14,Twitter
+isizulu_273,isiZulu,"you cant plot love, you must surrender continuously siya❤",positive,True,4,9,Twitter
+isizulu_274,isiZulu,show these people ukuthi uyangfuna,negative,True,2,5,Twitter
+isizulu_275,isiZulu,ntusi name lindoage 32relationship single but not availabledob 26 februarywe sthenjwa ntusi yenkomo cishe saba o twin,neutral,True,2,16,Twitter
+isizulu_276,isiZulu,"qocwa this dog in a nutshell iyoh yaze yacute ebusweni, kodwa",neutral,True,3,11,Twitter
+isizulu_277,isiZulu,rugby player yayazi klk amagwijo i love siya yhoo,neutral,True,2,9,Twitter
+isizulu_278,isiZulu,"last season udolly ubeyithwele ichiefs, scoring important goals but manje abantu bakhohliwe yilokho until we all accept the truth, kohlale kunje",negative,True,4,21,Twitter
+isizulu_279,isiZulu,when you refuse to touch and remove your moms underwear from the washing line amp she hits you with mara wase stradini wona uwa khumula ngamazinyo amaphenti😢😢😢,negative,True,9,27,Twitter
+isizulu_280,isiZulu,sleeping to avoid inkinga zami,negative,True,1,5,Twitter
+isizulu_281,isiZulu,there will probably be one kwa zille coz egoli khohlwa,negative,True,2,10,Twitter
+isizulu_282,isiZulu,ukhozi fm ubusuku obuhle nonongcebo kusukela ngo20000000 namuhla onthecouch sikhuluma ngomngeni water 202122 imiphumela yokusebenza yonyaka ezezimali kanye nokungeyona ukhozifm,negative,True,1,19,Twitter
+isizulu_283,isiZulu,kakani sihle because well never stop singing our field hollers ngenxa nimelwa zizirhama thina,positive,True,3,14,Twitter
+isizulu_284,isiZulu,lol…uyithathe wrongo siya kule game…,positive,True,1,6,Twitter
+isizulu_285,isiZulu,"for umsebenzi hle, are you umsebenzi wena🤷🏾‍♂️",positive,True,3,7,Twitter
+isizulu_286,isiZulu,smash rsa white government governed better and improved the standard of living of its people we all know the people of apartheid government kodwa ke qhubeka,negative,True,13,26,Twitter
+isizulu_287,isiZulu,xavier 101 your thinking is disgusting and privileged uyakwazi ukuboshelwa into ongayazi ukuthi kuwenzani umqondo nomphemfumulo wakho,positive,True,3,16,Twitter
+isizulu_288,isiZulu,forbes hayi qhubeka my guy next time she asks just say yes,positive,True,6,12,Twitter
+isizulu_289,isiZulu,they said she was trying to say cabanga😭😭😭😭😭,negative,True,6,8,Twitter
+isizulu_290,isiZulu,good things only manje season 6 is not on netflix ke so now im stuck,neutral,True,6,14,Twitter
+isizulu_291,isiZulu,no one4 year old mama cela ukukhuluma phela nami cela ningilalele inja enkulu iyakwazi yini ukudriver🤔sigh,positive,True,2,17,Twitter
+isizulu_292,isiZulu,"as ze said dont force communication in a relationship if your partner is silent, come to me i love you, uyezwanami ngiyaphinda ngisho njalo",neutral,True,13,24,Twitter
+isizulu_293,isiZulu,"no matter how smashing you look, women will never comolement you, hlezi ubona that they looking at you with admiration they rather gossip about it than tell you",negative,True,14,28,Twitter
+isizulu_294,isiZulu,za 🤣🤣🤣10 million yonke bafo the whole 10 million,neutral,True,1,7,Twitter
+isizulu_295,isiZulu,me too 🚮 uvele ubone nje ukuthi weeee,neutral,True,1,7,Twitter
+isizulu_296,isiZulu,thank for playing phakade,positive,True,2,4,Twitter
+isizulu_297,isiZulu,ngifake ama earphones listening to music ngibuka ne tv😭😭🤣 umgowo,negative,True,1,10,Twitter
+isizulu_298,isiZulu,malembe ayi youre lucky mfana maybe they even made it better than what it was ngiyasola,negative,True,4,16,Twitter
+isizulu_299,isiZulu,😭😭😭😭😭batho ba ne ba utlwana wautlwaeverything about them was perfect 🤣🤣🤣🤣🤣🤣🤣 kile ra tshela who got tiny an accounting job here kante isnt pmakute real ene lol hey,negative,True,4,27,Twitter
+isizulu_300,isiZulu,hi nelza b kukhula upiet aphane emalahleni izolo bekukhula umntazana kafrans debjg mkoka ekwagga a bakhulele phezulu 🎉🎊🌹🎁,positive,True,1,17,Twitter

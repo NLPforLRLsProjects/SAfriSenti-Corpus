@@ -1,0 +1,301 @@
+﻿sample_id,language,text,sentiment,code_switched_english,english_token_count,word_count,source
+sesotho_001,Sesotho,lol you still asking senda fela,neutral,True,3,6,Twitter
+sesotho_002,Sesotho,monique bingham owes us 5 albums coz since kemo qetela ka you put your fingers in mypap pap pap pap,neutral,True,3,19,Twitter
+sesotho_003,Sesotho,wish i can sing that verse sefela se se maatla lefifi le letsho letsho le mofuteng o kgopo,negative,True,3,18,Twitter
+sesotho_004,Sesotho,ene go bata o mo etela i feel like his tweets would be funnier now that hes not a world leader,positive,True,9,21,Twitter
+sesotho_005,Sesotho,the way banang le drama kateng bana ba paramente ya10 ke nahana le next week batlabe baso litheohe,neutral,True,1,18,Twitter
+sesotho_006,Sesotho,lekhale ho tletse already ka moo,neutral,True,1,6,Twitter
+sesotho_007,Sesotho,ke nahana ena e ngotsoe ke motho oa le dc seeking sympathy kapa a leka ho itlhatsoa ka abc ho latela litaba tsa eona,negative,True,1,24,Twitter
+sesotho_008,Sesotho,home affairs le traffic ntho tsena tsa lone li phoshoa hoo kore le mmuso ore otla ka mpama nahana ausi thandi,negative,True,2,21,Twitter
+sesotho_009,Sesotho,that was less mitigating calling for introspective reviewanc must go is what we are preparing forke dinyane dikgolo di setla,positive,True,7,20,Twitter
+sesotho_010,Sesotho,bathong lebo vele you woke up thinking we hate you ole motle tje,negative,True,4,13,Twitter
+sesotho_011,Sesotho,ke tsona ntho tse etsang a hane ka number10 tsona tsena,neutral,True,1,11,Twitter
+sesotho_012,Sesotho,thuso mbedu is so adorable on,positive,True,2,6,Twitter
+sesotho_013,Sesotho,o gorogile aker mme my girl o restilenyana,neutral,True,1,8,Twitter
+sesotho_014,Sesotho,hantle ho etsahalangi just tuned in,positive,True,1,6,Twitter
+sesotho_015,Sesotho,empa ke point of sale that should be charged differently,negative,True,3,10,Twitter
+sesotho_016,Sesotho,ke nahana ke otluoe i date guys ba sa rateng bolo helek,neutral,True,1,12,Twitter
+sesotho_017,Sesotho,site visit 012022 countdown to this sunday have you got your ticket yethmu for deliveries and drinks will be available tlang re bueng kgang tsa pelo,neutral,True,7,25,Twitter
+sesotho_018,Sesotho,good night ulale kahle busuku benzolo robala hantle goeie naghave a fantabulous thursday evening and sleep well,neutral,True,4,17,Twitter
+sesotho_019,Sesotho,this doesnt make sense we know thope is not happening so why do all this sometimes i hate this show,negative,True,11,20,Twitter
+sesotho_020,Sesotho,indeed thuso why dont you piss off and stop generating racism you prick,negative,True,5,13,Twitter
+sesotho_021,Sesotho,kganya is my role model,positive,True,2,5,Twitter
+sesotho_022,Sesotho,nkampa yase work out haketlo o kgalemella motho 1 or something hangata hao ngwana you know whats right and wrong,negative,True,4,19,Twitter
+sesotho_023,Sesotho,ng ng ko tirong ke na le tsala ya mdala he is 46 jaanong ke bata ya mosadi,neutral,True,2,17,Twitter
+sesotho_024,Sesotho,rena we paying1500 plus1000 for transport,neutral,True,2,6,Twitter
+sesotho_025,Sesotho,just dawned on me that i will no longer see lumkos tweets on my timelineempa hee it was gods will,negative,True,10,20,Twitter
+sesotho_026,Sesotho,motho a ka nahana oa soasoa meichommie,positive,True,1,7,Twitter
+sesotho_027,Sesotho,that goalkeeper coach reminds me of thuso phala,neutral,True,2,8,Twitter
+sesotho_028,Sesotho,kea u nahana and she has your traits,neutral,True,4,8,Twitter
+sesotho_029,Sesotho,u tsebe boholo ba bona those males ba khothaletsuoe ke basali mabatooeng,negative,True,1,12,Twitter
+sesotho_030,Sesotho,problem ke gore a re na chelete,neutral,True,2,7,Twitter
+sesotho_031,Sesotho,this is the only way it is done ladies and gentlemen way to an innovative lesotho khetha ka nepotsoao la eona ke pitsa ea sesotho,positive,True,9,25,Twitter
+sesotho_032,Sesotho,sometimes youll even think of standing in the middle of the street o memeze gore bathong tlheng tlang le re nyobeng,negative,True,2,21,Twitter
+sesotho_033,Sesotho,somarr o kreile chomio tlao introduce to dilo tse mo etsang a sa borega,positive,True,1,14,Twitter
+sesotho_034,Sesotho,ga ke akgelebatho ba rata kgang e ya gore mahatshe a cheap,positive,True,1,12,Twitter
+sesotho_035,Sesotho,ba tla go huduwa gore mercilessly theyre always bums though,neutral,True,1,10,Twitter
+sesotho_036,Sesotho,bathong this gent o nahana gore ka gafa neh,negative,True,1,9,Twitter
+sesotho_037,Sesotho,ke ba shebile ba etsa bonnete ba hore ba fa e mong ke e mong a litulong ke ea ipotsa na hana sena se bakoa keng,positive,True,1,26,Twitter
+sesotho_038,Sesotho,wena hao mpone a motle kabo kgutshwane okare ntho ya bosiu nxa,positive,True,1,12,Twitter
+sesotho_039,Sesotho,the true discourse king is ntate thuso and i love him shem,positive,True,5,12,Twitter
+sesotho_040,Sesotho,ore i love you bare thank you utlwe ekare you can rewind and press play again,positive,True,8,16,Twitter
+sesotho_041,Sesotho,wa qala jwaleu no ntso tla hantle,positive,True,1,7,Twitter
+sesotho_042,Sesotho,well today ke letsatsi lahao lao qetela hore obe single sekele teng jwale,positive,True,1,13,Twitter
+sesotho_043,Sesotho,kganya mkhangisas body is one that i need for myself,neutral,True,3,10,Twitter
+sesotho_044,Sesotho,dintho di palamane mos kamona lol,positive,True,1,6,Twitter
+sesotho_045,Sesotho,etsang fast ba kwatile batho nou,positive,True,1,6,Twitter
+sesotho_046,Sesotho,i absolutely love working with khetha what a communicating king,positive,True,4,10,Twitter
+sesotho_047,Sesotho,watching it on tiktok nahana,neutral,True,1,5,Twitter
+sesotho_048,Sesotho,nazo itseng is plotting against james now catch tonight at 100,neutral,True,2,10,Twitter
+sesotho_049,Sesotho,primary school kids ba ya skolong ka diphone ka tshosologo autlwa i dnt know why kgang e ea ama gore,negative,True,3,20,Twitter
+sesotho_050,Sesotho,lewatle o mpontshitse today shem,neutral,True,1,5,Twitter
+sesotho_051,Sesotho,nako ya di pool party has arrived but still no flat stomach ora gore ge nka thoma nou december mokhaba tlabe ole betere,negative,True,4,23,Twitter
+sesotho_052,Sesotho,contradiction e teng mona papisong le gazzette e etsang appoint pm ea 20 oct designate joang a entsoe appoint,negative,True,1,18,Twitter
+sesotho_053,Sesotho,mos ko kreya go tletse at the salon already setse gonale traffic,neutral,True,2,12,Twitter
+sesotho_054,Sesotho,i wanted to join and listen i was just late empa i wanted to listen to the negatives,positive,True,7,18,Twitter
+sesotho_055,Sesotho,siyabonga bafo isoccer laduma is blockile thina abanye,neutral,True,1,8,Twitter
+sesotho_056,Sesotho,can we have a hip hop gig ko maseru ya stateng mafikeng tlheng bagolo re nyoretswe motswako re baakanye dikgokgotso before maftown heights tuuuu,neutral,True,4,24,Twitter
+sesotho_057,Sesotho,ke bolawa ke your accountability partner in the background,positive,True,2,9,Twitter
+sesotho_058,Sesotho,a utlwe monate wa chelete,positive,True,1,5,Twitter
+sesotho_059,Sesotho,ohh mona go a tobetsa hela,negative,True,1,6,Twitter
+sesotho_060,Sesotho,nahana fela no receptionist at school tjo,positive,True,2,7,Twitter
+sesotho_061,Sesotho,do you have electricity thuso right now post your schedule and lets see,neutral,True,7,13,Twitter
+sesotho_062,Sesotho,lesedi kganya i am happy to announce will now be shipping outside south africa we courier world wide at your own cost thokozani,positive,True,8,23,Twitter
+sesotho_063,Sesotho,uso e bitsa majoala joale empa yesbo nthabisa blindtrue love,positive,True,1,10,Twitter
+sesotho_064,Sesotho,ive covered and followed inaugurations its a first ntate mosisili o la roleloa khaebane ke dc ntate tom a ke lebetse empa ela lla,negative,True,3,24,Twitter
+sesotho_065,Sesotho,en ba di transport ba letse hooter ga oneba tsosa le rena ba re feditseng skolo,negative,True,1,16,Twitter
+sesotho_066,Sesotho,o ne a ba joetse ene ke sure ne ntse ba re o ntse a pota ho joang kajeno,positive,True,2,19,Twitter
+sesotho_067,Sesotho,hake sure le haeba ke ea utloisisa ntatethe next step on ensuring that photographers get the credit they deserve,positive,True,3,19,Twitter
+sesotho_068,Sesotho,i read this with a british accent boela lapeng,neutral,True,3,9,Twitter
+sesotho_069,Sesotho,hahaha my sista batho ba nale chelete,positive,True,1,7,Twitter
+sesotho_070,Sesotho,nna rea e amogele wene obolela gore fang basadi chelete not dinyatsi le dicheri,negative,True,1,14,Twitter
+sesotho_071,Sesotho,ausi oo o motle hleng btw can you please give me the and artist of the song playing in the background,negative,True,8,21,Twitter
+sesotho_072,Sesotho,letlotlo refuses to drive a re hes got a lot on his mind o tlo etsa di phoso hwa thusa hore a be teng mo mare,negative,True,4,26,Twitter
+sesotho_073,Sesotho,lona banna etsang le etse verify my pm sicheeee,neutral,True,1,9,Twitter
+sesotho_074,Sesotho,like tswang mo rena ae lol,negative,True,2,6,Twitter
+sesotho_075,Sesotho,kanti batho ba etsang e kana all i do manage my anxiety and study,negative,True,4,14,Twitter
+sesotho_076,Sesotho,tla be ke inesa ka li goodie tsa tse tswang,neutral,True,1,10,Twitter
+sesotho_077,Sesotho,ebile wena oe namela e le betere e kreye ka bo 5am o ya mogwase lerome northam do trebiwa maretereterete,positive,True,2,20,Twitter
+sesotho_078,Sesotho,looks like ndebele mara o motle,positive,True,1,6,Twitter
+sesotho_079,Sesotho,check on him hoseng le mofe metsi a tsoekere,positive,True,1,9,Twitter
+sesotho_080,Sesotho,where are you based thuso,neutral,True,3,5,Twitter
+sesotho_081,Sesotho,damn now i zoomed in on lori harvey toes they dont look good,negative,True,5,13,Twitter
+sesotho_082,Sesotho,kgang kego collector di point you never know when would they reveal the prize,negative,True,6,14,Twitter
+sesotho_083,Sesotho,yeah better that way re tlo etsang back2school,positive,True,3,9,Twitter
+sesotho_084,Sesotho,ai yah rena bana ba januworry now i owe everyone who sent birthday wishes their birthday wishes for the rest of the year,negative,True,6,23,Twitter
+sesotho_085,Sesotho,rekopa hobo a that smile hle,positive,True,3,6,Twitter
+sesotho_086,Sesotho,thuso will forever self sabotage now hes gonna lose his job because he couldnt mind his business,negative,True,5,17,Twitter
+sesotho_087,Sesotho,mara nahana o dutse mo letsatsing the whole day pelo e baba,negative,True,1,12,Twitter
+sesotho_088,Sesotho,i was taught to greet people i come across while still young so kea dumedisa haholo,positive,True,5,16,Twitter
+sesotho_089,Sesotho,haeba opalama serahamajoe like i do otlaa feta,positive,True,3,8,Twitter
+sesotho_090,Sesotho,ke for nna hape mo ke di laduma mealswanna check them out when i leave kamo west view,positive,True,3,18,Twitter
+sesotho_091,Sesotho,ha rena chance today just before1000 ne ke mametse 91i almost thought it was a saturday radio,negative,True,6,17,Twitter
+sesotho_092,Sesotho,load shedding ya hoseng when we are supposed to get ready for work ke masepa a fetang,negative,True,5,17,Twitter
+sesotho_093,Sesotho,re le thusa ho khetha le ho reka masela a matle,positive,True,1,11,Twitter
+sesotho_094,Sesotho,kemo lapeng my guy o na le madi le plan ke thape,neutral,True,1,12,Twitter
+sesotho_095,Sesotho,batho ha bata go re lothanya ba bua hela jaana nna a bo ke iphetela hela,positive,True,1,16,Twitter
+sesotho_096,Sesotho,bro ha ke nahana that sentence ke qaboha ha kae,positive,True,1,10,Twitter
+sesotho_097,Sesotho,so ko btc gore o kgone go thusiwa ba bata o ba latetse ko diofficing o ile go palama ditafole o buela ko godimo,negative,True,1,24,Twitter
+sesotho_098,Sesotho,i feel for your kids nahana your dad saying such in this economy,negative,True,5,13,Twitter
+sesotho_099,Sesotho,lmfao rekopa a new menu on the lunch boxes pls,neutral,True,2,10,Twitter
+sesotho_100,Sesotho,go bata re berekela mo nakong re mo suthe a isi a thanye,positive,True,2,13,Twitter
+sesotho_101,Sesotho,heloo cada ke mametse kele bloemfontein le my husband karabelo mosotho kha bochabela kha,neutral,True,1,14,Twitter
+sesotho_102,Sesotho,someone just won against sizwe ha ke tsebe haeba u se u e bone,positive,True,1,14,Twitter
+sesotho_103,Sesotho,ne ke so hlahe ngwanana wena o sa bua ka dilemo,positive,True,1,11,Twitter
+sesotho_104,Sesotho,ntho e bo doro ba etsang tebogo is not right,negative,True,2,10,Twitter
+sesotho_105,Sesotho,skeem sa drivei am with my older brotherre thellela lapeng re mametse rea thella afternoon drive show ho lesedi fm ke mollelwa,neutral,True,3,22,Twitter
+sesotho_106,Sesotho,nahana no why so innocently that time,neutral,True,4,7,Twitter
+sesotho_107,Sesotho,mathata ke go tsenya modimo mo dilong tse a sa di itseng,negative,True,1,12,Twitter
+sesotho_108,Sesotho,kante wena o buela mo goreng aye go bata konte kwa tota legale thats a valid reason,positive,True,1,17,Twitter
+sesotho_109,Sesotho,thuso are ba mo stuckolle,negative,True,1,5,Twitter
+sesotho_110,Sesotho,true our people are afraid to walk through the shadows of darkness ba tshaba lefifi not knowing lesedi le le lekisa lefifi,positive,True,4,22,Twitter
+sesotho_111,Sesotho,ke bua haholo hore when im sipped ene i always regret it after,negative,True,4,13,Twitter
+sesotho_112,Sesotho,oreka 6 felase bereketse those were thee timesnow kedi ice tropez,neutral,True,2,10,Twitter
+sesotho_113,Sesotho,mariha a sa kene empa hee the less i say the better,positive,True,6,12,Twitter
+sesotho_114,Sesotho,so in return letlo re sendela le lena mpe kebe big red flag ya nathi mthethwa yao kganya le boshego,neutral,True,1,20,Twitter
+sesotho_115,Sesotho,ebile go bata o harvesta metsi a teng ka jojo,neutral,True,1,10,Twitter
+sesotho_116,Sesotho,i owe myself a vacation and shopping esale ke qetela taba tsena 219,negative,True,3,12,Twitter
+sesotho_117,Sesotho,batho ba batsho le itebala fast once motho a thola 2bop o hata senang nix molala,negative,True,2,16,Twitter
+sesotho_118,Sesotho,nna ne ke nahana hore o tswile mo daar man prep for the race,neutral,True,1,14,Twitter
+sesotho_119,Sesotho,disinformation and misinformation ke eona ntho eo mohlomphehi a etsang,negative,True,2,10,Twitter
+sesotho_120,Sesotho,3 weeks ntse ke qetela now,neutral,True,1,5,Twitter
+sesotho_121,Sesotho,sheba u ka fasa lebata wa ba sober oa tsamaya ka belo ke nepahetseng motho oa gd6 a tla ho wena straight ya ba ke phetho,positive,True,1,26,Twitter
+sesotho_122,Sesotho,ha ke tsena mo lapeng bo ke re kome kome pap n cabbage is cant ka go slima,negative,True,2,18,Twitter
+sesotho_123,Sesotho,nahana ha chelete ea phala phala e qeta ho likela namibia ebe motho o fihla a cho tjena,negative,True,1,18,Twitter
+sesotho_124,Sesotho,tlohela moya oo layela so that o tlo thusa bana batho thokoza gogo o hantle,negative,True,2,15,Twitter
+sesotho_125,Sesotho,why ne ke nahana wa jola all this time,negative,True,2,9,Twitter
+sesotho_126,Sesotho,but also theres a new man in their life go bata a bolella the mom if shes ok with him attending a tsamaye,neutral,True,8,23,Twitter
+sesotho_127,Sesotho,hr o itseng hao le bua in the mirror,positive,True,1,9,Twitter
+sesotho_128,Sesotho,ketla onkela sepe hoseng it helps ka focus wa tseba obviously because re rata redbull tlabe ontso o e nwa as well,negative,True,2,22,Twitter
+sesotho_129,Sesotho,hai mara nahana sebokeng ai miss me,negative,True,1,7,Twitter
+sesotho_130,Sesotho,it was highly likely to affect fetus ke hopola ka mokho ene ntsokotse ka teng so ke nahana what it can do to the baby,neutral,True,8,25,Twitter
+sesotho_131,Sesotho,hantle the emphasis e hona mono ha lea loka,negative,True,1,9,Twitter
+sesotho_132,Sesotho,ke nahana boholo ke batho ba holetseng moo hosa laetuoeng so neba bona hole normal,negative,True,1,15,Twitter
+sesotho_133,Sesotho,kopa thuso someone please help me pay my rain life is so painful without wifi,negative,True,5,15,Twitter
+sesotho_134,Sesotho,kere whenever it is hot rena di tea lovers la re attacker unprovoked,negative,True,2,13,Twitter
+sesotho_135,Sesotho,da in moqhaka kroonstad open case of financial mismanagement against the acting mayor,neutral,True,1,13,Twitter
+sesotho_136,Sesotho,is this what you tell lori,neutral,True,4,6,Twitter
+sesotho_137,Sesotho,wareng hantle i dont understand,negative,True,2,5,Twitter
+sesotho_138,Sesotho,magadi aise a goroge ko lapeng,negative,True,1,6,Twitter
+sesotho_139,Sesotho,ke nahana ke nna ke le mong a utloang mocheso ona kapa re chella libe tsa rona,negative,True,1,17,Twitter
+sesotho_140,Sesotho,e bohloko that thing obe hantle,positive,True,1,6,Twitter
+sesotho_141,Sesotho,when i started training i thought go trainer ke cardio hela ne ke dirisa treadmill ebo ke ya lapeng,negative,True,3,19,Twitter
+sesotho_142,Sesotho,your list is piss coz thuso is not on there,negative,True,5,10,Twitter
+sesotho_143,Sesotho,siya fana lavi 3 of us ke mna kwa worse i dont know my dad this other two banale bo papabona empa nna jeso,negative,True,5,23,Twitter
+sesotho_144,Sesotho,fela jwalosomethings are not worth our energy,negative,True,3,7,Twitter
+sesotho_145,Sesotho,might be in limps bro funeral ya ka lapeng,neutral,True,1,9,Twitter
+sesotho_146,Sesotho,i need your permission tlheng ke faras kanathroa,neutral,True,2,8,Twitter
+sesotho_147,Sesotho,yho nahana kere ka zama ebe ke catcha ma twins a i2 nka lla,negative,True,2,14,Twitter
+sesotho_148,Sesotho,ah ah yaanon ore tsenya mo mathateng a gagonna weekend re bata dijo full plate,positive,True,1,15,Twitter
+sesotho_149,Sesotho,joale hake nahana permanent head damage for the second time kere yhooo hase fete senoelo,positive,True,1,15,Twitter
+sesotho_150,Sesotho,o motle empa marago a gago okare a segaswi,positive,True,2,9,Twitter
+sesotho_151,Sesotho,mme lets separate the fiction from the real tlheng,neutral,True,2,9,Twitter
+sesotho_152,Sesotho,motho eo ntate ekare ha a moholo he is not even thinking before saying anything hobane o nahana o tseba haholo,negative,True,4,21,Twitter
+sesotho_153,Sesotho,ka ipechetsa ka lori ya ko fairgrounds this year,neutral,True,1,9,Twitter
+sesotho_154,Sesotho,proves that thusos character isnt just hyperbole,negative,True,2,7,Twitter
+sesotho_155,Sesotho,jwale rena ro tsuba eng ge a di tseya,neutral,True,1,9,Twitter
+sesotho_156,Sesotho,who are you in anc position thuso,neutral,True,3,7,Twitter
+sesotho_157,Sesotho,nahana thats the uncle of my kids,neutral,True,2,7,Twitter
+sesotho_158,Sesotho,something a father would say to his daughter lori,positive,True,2,9,Twitter
+sesotho_159,Sesotho,not taking any chance to not hear rock lefatshe livereally want to go to that intimate night with kbmamosadi please,negative,True,5,20,Twitter
+sesotho_160,Sesotho,so now i am late ke sebetsana le toilet and ho ipeha hantle,positive,True,5,13,Twitter
+sesotho_161,Sesotho,nkasego ntshe ko lapeng when its already late,neutral,True,2,8,Twitter
+sesotho_162,Sesotho,its funny how rude you guys become when trying to make a point on the tl ha le tsebe ho bua hantle mare,negative,True,5,23,Twitter
+sesotho_163,Sesotho,ty moo cana ho so le hole haholo ha re le fallisetsa teng re etse tjee feela,positive,True,1,17,Twitter
+sesotho_164,Sesotho,really beautiful but nna ko my wedding tlabe golla makoti ka lapeng re khutjitje khutji khutji khutji so akitsi hey,positive,True,4,20,Twitter
+sesotho_165,Sesotho,if lori harvey is half as funny as her dad and looks like that she can pull any man on the planet,positive,True,8,22,Twitter
+sesotho_166,Sesotho,thank you that time ke wele botlhoko joang when i just reached 5km but i soldiered on,negative,True,8,17,Twitter
+sesotho_167,Sesotho,ke nahana ke char from the onions or lets just say aesthetics and call it,neutral,True,5,15,Twitter
+sesotho_168,Sesotho,etsang bana plus bana ba fela this year,neutral,True,1,8,Twitter
+sesotho_169,Sesotho,thats what we get as punishment remember batsadi ba re omanyetda lefifi what was our view then,negative,True,5,17,Twitter
+sesotho_170,Sesotho,no pls re bata borotho,positive,True,1,5,Twitter
+sesotho_171,Sesotho,iive been missing you o re etsang mara kingka mantaga nogal loving the concert tjerrr di a boa,positive,True,4,18,Twitter
+sesotho_172,Sesotho,hai maan o tshela thupa this morning ntombi o re etsang mara,neutral,True,2,12,Twitter
+sesotho_173,Sesotho,pila fela make it make sense,neutral,True,1,6,Twitter
+sesotho_174,Sesotho,nikis wesho mamenemene akhe a kganya kudu,positive,True,1,7,Twitter
+sesotho_175,Sesotho,it feels so good to be a mosotho today,positive,True,6,9,Twitter
+sesotho_176,Sesotho,when ed was taking peoples wives in kwekwe,neutral,True,2,8,Twitter
+sesotho_177,Sesotho,ee thats why kere go tshwana hela nna ke ipotsa ba akanya bagolo bata ba direlang motho asa bolo go heta retirement age,negative,True,1,23,Twitter
+sesotho_178,Sesotho,this so encouraging to read your tweets that are so accommodating and encouraging a majita to stop blaming themselves with their lives ke tletse,positive,True,9,24,Twitter
+sesotho_179,Sesotho,i am also panicking but has advised that one needs to download their ticket and it should be sufficientno screenshot though downloadhauweng,neutral,True,10,22,Twitter
+sesotho_180,Sesotho,nahana taba e ntle ha kana motho a re o traumatized ha qeta ke itse ke batla etsahale,negative,True,1,18,Twitter
+sesotho_181,Sesotho,but this where all this blom issue is coming from laduma news,neutral,True,6,12,Twitter
+sesotho_182,Sesotho,buka ya metshameko ka kakaretso happy birthday abut,positive,True,1,8,Twitter
+sesotho_183,Sesotho,moya mahlong a tau oya a swere serumula,neutral,True,2,8,Twitter
+sesotho_184,Sesotho,empa bophelo ke semphekho bashanya le satle be lehopole lehlohonolo,neutral,True,1,10,Twitter
+sesotho_185,Sesotho,january so far e ntse e ntsoere hantle,negative,True,1,8,Twitter
+sesotho_186,Sesotho,ebe tupac ntsa etsang kare nka re drrrr fast ke khutle,neutral,True,1,11,Twitter
+sesotho_187,Sesotho,a bua kanna ke sure ke nahana ke schumacher,neutral,True,1,9,Twitter
+sesotho_188,Sesotho,ahhahaahah wa ukoa if ke tloha maseru kea lotshebeletsong moo ha ke fihla hothoe motlakase ha me nahana ho khutlela hape ke la tlamea ho koleka,negative,True,2,26,Twitter
+sesotho_189,Sesotho,what if a cummile 8 times pele atla lapeng12 times oo ene ele go gamolela ga mafelo helahakelwe nekere what if,positive,True,5,20,Twitter
+sesotho_190,Sesotho,spending my day with my naughty girlsotlo utlwe o mong ha mpotela are relay really,positive,True,4,15,Twitter
+sesotho_191,Sesotho,is that the best you can do o nahana ke tlo hlabeya ke sebunu se o se buwang,positive,True,7,18,Twitter
+sesotho_192,Sesotho,ba tsofetse le mangoele a ea hana empa hothoe ke bacha,negative,True,1,11,Twitter
+sesotho_193,Sesotho,are re tsene jang ko lapeng,neutral,True,1,6,Twitter
+sesotho_194,Sesotho,so lefatshe kaofela le ngola re vele,neutral,True,1,7,Twitter
+sesotho_195,Sesotho,ke romele oomf chelete ya henny le haircut thoughts are being thunk,neutral,True,2,12,Twitter
+sesotho_196,Sesotho,ke ngwana wabo rena are mo tlogeleng mara yena rebe rele gona,positive,True,1,12,Twitter
+sesotho_197,Sesotho,in case you missed it last nights episode of thesidebar with baagi is on our instagram page right now click on the link below for more,neutral,True,7,26,Twitter
+sesotho_198,Sesotho,money moolah chelete but dololo cent,neutral,True,2,6,Twitter
+sesotho_199,Sesotho,you dont know ball batsho,positive,True,2,5,Twitter
+sesotho_200,Sesotho,ke gorogile mo lapeng ka past4 ke shwele kana mme kebatla go tsaa one last nap before going to work ka half7,neutral,True,1,22,Twitter
+sesotho_201,Sesotho,eish o nkakantsha thata mme teraka ga e a ema,positive,True,2,10,Twitter
+sesotho_202,Sesotho,principal thobakgale is recieving flower deliveries at work empa nna,negative,True,2,10,Twitter
+sesotho_203,Sesotho,ke tseba hantle mathata aka a o thabisa,positive,True,1,8,Twitter
+sesotho_204,Sesotho,good night ulale kahle busuku benzolo robala hantle goeie naghave a tremendous friday evening and sleep well,neutral,True,4,17,Twitter
+sesotho_205,Sesotho,chelsea got walloped 1 today mme le didimetse ka kgang ya teng theres not enough hate and im not happy,negative,True,6,19,Twitter
+sesotho_206,Sesotho,mosotho today mosotho tomorrow mosotho for life,neutral,True,2,7,Twitter
+sesotho_207,Sesotho,thuso mbedu dazzled in this louis vuitton dress at the,neutral,True,2,10,Twitter
+sesotho_208,Sesotho,next stop polokwane and kzn 2nd leg hauweng,negative,True,1,8,Twitter
+sesotho_209,Sesotho,at the end mosebetsi o ea phethahala,positive,True,1,7,Twitter
+sesotho_210,Sesotho,jacket eno e kholo haholo ehlile ha se ya motho a khutlelang hae,negative,True,1,13,Twitter
+sesotho_211,Sesotho,dawg ever since he cane and kana o gorogile ka injury dieman he needs to move on or retire idc just need him out my club,negative,True,6,26,Twitter
+sesotho_212,Sesotho,the only master class ill be signing up for is a master class from lori harvey,neutral,True,5,16,Twitter
+sesotho_213,Sesotho,well it might not be a zero empa tlhafu tse tenya tsona,positive,True,4,12,Twitter
+sesotho_214,Sesotho,what a time to be a mosotho oa lesotho,positive,True,4,9,Twitter
+sesotho_215,Sesotho,ke qetile mahlo ke diala ha a je letho,neutral,True,1,9,Twitter
+sesotho_216,Sesotho,wow wasekaba motle simphiwecan i please oneday see you live,positive,True,4,10,Twitter
+sesotho_217,Sesotho,rent fela will be good r5000,positive,True,3,6,Twitter
+sesotho_218,Sesotho,ntate thuso motaung has grown people singing for a debonairs triple decker voucher on radio at117 on a friday in january arrest this man,neutral,True,4,24,Twitter
+sesotho_219,Sesotho,haholo but kenna eo kae reka 3 for r25 food lovers,negative,True,1,10,Twitter
+sesotho_220,Sesotho,banabeso ke lebohile tshehetso ya lona haholo fela ramasedi a mpolokele lona,positive,True,1,12,Twitter
+sesotho_221,Sesotho,manyalo a mo lapeng are gonna empty my account ke ya go ja birthday ke sa ithekela le yone cake ya spar ka november,negative,True,4,24,Twitter
+sesotho_222,Sesotho,tlhemma nick le vanessa ba re tletse ka dilo di sele this season,neutral,True,1,13,Twitter
+sesotho_223,Sesotho,is that you trending or other thuso,neutral,True,4,7,Twitter
+sesotho_224,Sesotho,o enkile hantle ka nnete o la itjella chepisi a khaona le taba tse ngata,negative,True,1,15,Twitter
+sesotho_225,Sesotho,tsela eo ho chesang ka eona ho ntse ho na le motho a tlo robala a sa hlapa,positive,True,2,18,Twitter
+sesotho_226,Sesotho,le setse le gorogile or jangfo kae koore,neutral,True,1,8,Twitter
+sesotho_227,Sesotho,thata kana re emeletse rothe mo lapeng nna hake tsena mo bus i see the boyfriend ka tenega gore kante gake itse,negative,True,2,22,Twitter
+sesotho_228,Sesotho,ntate thuso o kae when i need him,positive,True,2,8,Twitter
+sesotho_229,Sesotho,ke nahana matampi o robetse a sa ja le hoja ke nthoe mo hlahetseng today,neutral,True,2,15,Twitter
+sesotho_230,Sesotho,eish ke nale fela r50,neutral,True,1,5,Twitter
+sesotho_231,Sesotho,o saleng hantle happy stanton got it,positive,True,2,7,Twitter
+sesotho_232,Sesotho,nahana ai nka seke shem anyway each to their own,neutral,True,1,10,Twitter
+sesotho_233,Sesotho,ke nahana page ena ea africa facts zone moderator ke mosotho kapa someone who has lived in lesotho,neutral,True,2,18,Twitter
+sesotho_234,Sesotho,missing ntate thuso because uncle reg is belting out grown up music,neutral,True,2,12,Twitter
+sesotho_235,Sesotho,also quavo nea etsang a dlala ma dice ko kasi as a millionaire,negative,True,2,13,Twitter
+sesotho_236,Sesotho,ke jele granola a bo ke nwa faefe and ke tswa ditshiping ha o bata ntwa a re bue sente ke nwa alcohol not temperature,positive,True,4,25,Twitter
+sesotho_237,Sesotho,ke kopa thuso ya voucher please sir,positive,True,1,7,Twitter
+sesotho_238,Sesotho,abuti are you in any way a part of betway squad re tlhoka thuso abuti weits,positive,True,3,16,Twitter
+sesotho_239,Sesotho,thuso mbedu in the woman king,neutral,True,1,6,Twitter
+sesotho_240,Sesotho,moya mahlong a tau o ya a swere serumula,neutral,True,2,9,Twitter
+sesotho_241,Sesotho,watching rn at work nahana,neutral,True,1,5,Twitter
+sesotho_242,Sesotho,empa 30 days hae so fete,neutral,True,1,5,Twitter
+sesotho_243,Sesotho,ntsoarele ausi oaka ha ke kolote ha ke koloteee e sa le a ntse a mema oo nkoatetse ke li shit fela empa serious le shap,negative,True,2,26,Twitter
+sesotho_244,Sesotho,mara after falling off of a mountain kapele so ba dlala ka rena,positive,True,2,13,Twitter
+sesotho_245,Sesotho,after a long lay off i tried,neutral,True,2,7,Twitter
+sesotho_246,Sesotho,went to bed at 4am and i was so scared i wouldnt be able to wake up at 6am to get kganya ready for school,negative,True,9,25,Twitter
+sesotho_247,Sesotho,nna le nna ga ke bate go ya lapeng jaaka lona le tshaba a lona,negative,True,1,15,Twitter
+sesotho_248,Sesotho,ke ee ke bone a etseha ha u sebelisa olive oil,neutral,True,1,11,Twitter
+sesotho_249,Sesotho,bumps ke eng tlheng rona sale ka docha ka letlhabaphefo skolong teacher a sa ilo kgetla thupa,neutral,True,1,17,Twitter
+sesotho_250,Sesotho,bo so sheba ho ea holimo,positive,True,1,6,Twitter
+sesotho_251,Sesotho,some other teams are busy on window transfer but ya rena e busy e re jesa ke betway,negative,True,2,18,Twitter
+sesotho_252,Sesotho,stop being obsessed about khabazela wena thuso,positive,True,1,7,Twitter
+sesotho_253,Sesotho,only thing i hate ka kasi ke batho ba ho dlala music hoseng eyo jeso,negative,True,3,15,Twitter
+sesotho_254,Sesotho,wa be o sukudisa hoseng o kwatile moo,positive,True,1,8,Twitter
+sesotho_255,Sesotho,imagine the admin oyiyichola pha an emotional rag of a man ncono kuyekwe betere,negative,True,3,14,Twitter
+sesotho_256,Sesotho,empa u tseba sekhooa tjena ke western what what so clearly that cant be all bad,negative,True,7,16,Twitter
+sesotho_257,Sesotho,pedros daar ba rekisa maebana a etsang re be horny ke letswai tota,positive,True,2,13,Twitter
+sesotho_258,Sesotho,nyaa ga kare latlha kare a bee okaseje mateng ele 32 degrees ka montle man nthomelela serope moo ketle go gadika,positive,True,1,20,Twitter
+sesotho_259,Sesotho,louyas bata nga ni angkas oi kasab an man,neutral,True,1,9,Twitter
+sesotho_260,Sesotho,o bosso tlheraapatiently waiting for the day itseng,positive,True,2,8,Twitter
+sesotho_261,Sesotho,jooo u tla utloa mariha a tlang from stories ke utloe hore batho bao ba lubaa ha ke tsebe ba eletsoa ke mang askies,positive,True,1,24,Twitter
+sesotho_262,Sesotho,thank you kea leboha haholo fela,positive,True,2,6,Twitter
+sesotho_263,Sesotho,money chelete gelt imali zaka le dickson mthondo,neutral,True,1,8,Twitter
+sesotho_264,Sesotho,4202 o hlahile ka borena ka mara a maholo,positive,True,1,8,Twitter
+sesotho_265,Sesotho,thuso motaung makes such impactful radio he literally helps people everyday on that show ha khethe nku ka pere,positive,True,2,19,Twitter
+sesotho_266,Sesotho,fubeng sa hae kajeno kea hatolohachee hake hloke lethoke bolokehile my moms wake up tune,negative,True,1,15,Twitter
+sesotho_267,Sesotho,covi19 vaccine government sends important message to sansfull story bonang big brother thuso andre de ruyter condolences lesufi kabza,neutral,True,1,19,Twitter
+sesotho_268,Sesotho,le iketla hore le tsebanang maobane ke laba ka siea koloi kfc holimo ka ea down town ka maoto hoping to see anyone from here dololo,negative,True,1,26,Twitter
+sesotho_269,Sesotho,haona monyetla ntate youre the first person to do so then we can follow,neutral,True,5,14,Twitter
+sesotho_270,Sesotho,if you are a foreign national from any country in any country you are doing what god had asked you to do tlala le lefatshe,neutral,True,11,25,Twitter
+sesotho_271,Sesotho,all the photos from lori harveys glamourous birthday celebrations,positive,True,1,9,Twitter
+sesotho_272,Sesotho,nnyaa tlhe mma ke molwetseerile ere12 ebo gotwe ng ng ya lapeng so ke berekile 2 hours fela i hope le kmso ke tlaa busiwa,positive,True,2,24,Twitter
+sesotho_273,Sesotho,but its really hot today empa i understand its a need,negative,True,5,11,Twitter
+sesotho_274,Sesotho,nahana re lla ba botlhe coz our team lost boring,negative,True,1,10,Twitter
+sesotho_275,Sesotho,daaaamn what a player used to watch football of siwelele sa masokolara,neutral,True,2,12,Twitter
+sesotho_276,Sesotho,enough about what i couldnt do ka october november comes with new opportunities hauweng,negative,True,3,14,Twitter
+sesotho_277,Sesotho,batlampe ba rapellwe hore chelete tsa batswadi ba bona di be le molemo lemong setlang,negative,True,1,15,Twitter
+sesotho_278,Sesotho,dumela moratuwa i robetse hantle,positive,True,1,5,Twitter
+sesotho_279,Sesotho,nna ke lula seke bona lifoto fela mehlaena about things that happened in haholo tse academic,positive,True,1,16,Twitter
+sesotho_280,Sesotho,ba busy ba sasanka le lefatshe they must stay at their own village,neutral,True,2,13,Twitter
+sesotho_281,Sesotho,a palamise moruti ba nka chelete ea koleke,neutral,True,1,8,Twitter
+sesotho_282,Sesotho,shes in the good mood mo kope chelete,positive,True,2,8,Twitter
+sesotho_283,Sesotho,reminder we are meeting again tomorrow for the 2nd leg of featuring chabala mbao and still delving deeper into mental health amp,negative,True,7,22,Twitter
+sesotho_284,Sesotho,my mood today is to seat at the back seat of a golf r with 6 ea basali,neutral,True,5,17,Twitter
+sesotho_285,Sesotho,your pastor also lie to you every sunday including other newspapers empa hao buwe fakoldont reserve words for him amp,negative,True,2,20,Twitter
+sesotho_286,Sesotho,lesedi hows things looking for me career wise this year,neutral,True,2,10,Twitter
+sesotho_287,Sesotho,yhiiiishe performed ubala i hope we were here neketlo khutla kele seretse mahlong kaho lla,negative,True,4,15,Twitter
+sesotho_288,Sesotho,can never be me this is definitely why iam single ke nahana o ko zame16 years,negative,True,7,16,Twitter
+sesotho_289,Sesotho,harena film law lesotho monabatho basa tsebeng letho ka film and theatre ba lutseng ka li officeng ba re joetsa hore hare mmaraka le capacity,negative,True,1,25,Twitter
+sesotho_290,Sesotho,after 2024 you will be jobless wena bushiris disciple you must save this tweet setlokotsebe sa ngoanana,positive,True,5,16,Twitter
+sesotho_291,Sesotho,motho a bona thuso and she starts screaming and losing her shit n stuff,positive,True,4,14,Twitter
+sesotho_292,Sesotho,kganthe a le re scarce skills what what mafaseng kae kae,neutral,True,3,11,Twitter
+sesotho_293,Sesotho,nxu stru o ja december fela knowing bana ba boela skolong and u wont find money motlhofo january,negative,True,2,18,Twitter
+sesotho_294,Sesotho,relationship di satlo fela ke loadshedding,neutral,True,1,6,Twitter
+sesotho_295,Sesotho,dc should just cut a cheque aquaman o gorogile,positive,True,3,9,Twitter
+sesotho_296,Sesotho,a lot is going on right now go bata motho ela a ntse a le ko dikhoteng,negative,True,5,17,Twitter
+sesotho_297,Sesotho,dumelang le phela joang welcome to the wednesday edition of the best breakfast show in the land tlamang mababanta ha re eeng pooopooopooopoooh,positive,True,4,23,Twitter
+sesotho_298,Sesotho,i was too excited to be walking with the streetlights on to mind it empa le bona ba hloka ho theotheola pace hanyane fela,negative,True,5,24,Twitter
+sesotho_299,Sesotho,she can ko public place nahana cheri ya hao ba monka videos and alles ale all over dancing,neutral,True,3,18,Twitter
+sesotho_300,Sesotho,girls kopela le itlhokomeleng go nale monna o a tsamayang a tshwara basadi marago ga fetsa abafe r6000,negative,True,2,18,Twitter

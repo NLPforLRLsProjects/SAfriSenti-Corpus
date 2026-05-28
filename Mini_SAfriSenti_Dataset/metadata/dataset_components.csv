@@ -1,0 +1,5 @@
+Dataset component,Languages,Approx. size,Labels,Annotation method,Evidence
+Initial SAfriSenti,"English, Sepedi, Setswana","40,000+","Positive, negative, neutral","SentiApp, native speakers, lexicons",SIGUL 2022
+Extended Sotho-Tswana,"Sepedi, Setswana, Sesotho, English","50,000+","Positive, negative, neutral","Native speakers, distant supervision",RAIL 2023
+Nguni extension,"isiZulu, isiXhosa","50,000+","Positive, negative, neutral","Semi-automatic distant supervision, native speaker checks",BDCC 2024 / PLOS ONE 2025
+Full SAfriSenti experiment corpus,"Sepedi, Setswana, Sesotho, isiXhosa, isiZulu","115,994","Positive, negative, neutral","Preprocessing, annotation, validation",PLOS ONE 2025

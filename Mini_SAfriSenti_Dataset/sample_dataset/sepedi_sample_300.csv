@@ -1,0 +1,301 @@
+﻿sample_id,language,text,sentiment,code_switched_english,english_token_count,word_count,source
+sepedi_001,Sepedi,for to wake up with a banging hangover deep down ke bona le nna gore selemo sa kgaowa,neutral,True,1,18,Twitter
+sepedi_002,Sepedi,go lorile pleasure a rwele ring not wena mjolo wa trapa,neutral,True,2,11,Twitter
+sepedi_003,Sepedi,le nna nkao kwatela keo bona gore o king of tlc and you dont want menka kwata,negative,True,3,17,Twitter
+sepedi_004,Sepedi,i hope the person i date likes it salty,positive,True,4,9,Twitter
+sepedi_005,Sepedi,our 7s quarter guy o tsisa tshelete a rent a okeditse are dilo dia ture waitse keha kele emotional lehatshe le le na le basiame kana,neutral,True,4,26,Twitter
+sepedi_006,Sepedi,she just wanted to say something lets give her a chance yoh mara nthabi le yena,neutral,True,3,16,Twitter
+sepedi_007,Sepedi,aowa no akere we know this week batho ba di 25 ledi 27 are getting paid faacts,negative,True,4,15,Twitter
+sepedi_008,Sepedi,ke seleka korr a ka nyoba mabane marr bona,negative,True,1,9,Twitter
+sepedi_009,Sepedi,eyamaabane azanka ka no tshwara phone cuz network ne e sego the whole day,positive,True,3,14,Twitter
+sepedi_010,Sepedi,e seng mokula mme tota no,negative,True,1,6,Twitter
+sepedi_011,Sepedi,hhayi no bonang is more beautiful than waffles justaowacked unclewaffles insta umuhle kabi wena ndlovukazi bangakukohlisi,neutral,True,3,16,Twitter
+sepedi_012,Sepedi,we tried bby girl we love you south africa loves you,positive,True,5,11,Twitter
+sepedi_013,Sepedi,motho a tsamaye a yo wela kua kgule,neutral,True,2,8,Twitter
+sepedi_014,Sepedi,sepedi ga se tshwenye se no nyaka o nale kgahlego mo go sona first assignment translate what i said above,positive,True,3,20,Twitter
+sepedi_015,Sepedi,enjoy mama hope your boy is gonna watch 1 on sunday school holidays are here,negative,True,5,14,Twitter
+sepedi_016,Sepedi,o winne lotto for you to kopana with me,neutral,True,2,9,Twitter
+sepedi_017,Sepedi,bona ngiyavumawhat a beautiful song,neutral,True,1,5,Twitter
+sepedi_018,Sepedi,hake so bone gore lerekisitse empa o rekisa mehla ena,neutral,True,1,10,Twitter
+sepedi_019,Sepedi,ke bolawa ke you contacted me,negative,True,2,6,Twitter
+sepedi_020,Sepedi,thats what family should be about modimo a le etse hantle hle love it,negative,True,7,14,Twitter
+sepedi_021,Sepedi,the most convenient system baya go tswala gosele gone ha,positive,True,2,10,Twitter
+sepedi_022,Sepedi,ba tlabile ngwana shem sorry hle,negative,True,1,6,Twitter
+sepedi_023,Sepedi,ke botsa mamazala gore ke tswile for lunch efetsa yena a re eno mpotsa pila gore ao bowe ngwanaka,neutral,True,1,19,Twitter
+sepedi_024,Sepedi,yaanong ha monna a sa batle go go leaver go dirwa jang these ladies continue to emba papa ss themselves waitse,neutral,True,2,21,Twitter
+sepedi_025,Sepedi,i am trying to take a weekend off hope i survive,negative,True,4,11,Twitter
+sepedi_026,Sepedi,roma deserves a top 4 spot,positive,True,1,5,Twitter
+sepedi_027,Sepedi,thats my girl for u mogadime,neutral,True,1,6,Twitter
+sepedi_028,Sepedi,maam that place is the ghetto tswa hela koo remember youre the one who said id see kabza in sa,neutral,True,5,20,Twitter
+sepedi_029,Sepedi,you cant not love thato shame shes everything,negative,True,4,8,Twitter
+sepedi_030,Sepedi,sorry i took long ware go bohloko ko kae,neutral,True,2,9,Twitter
+sepedi_031,Sepedi,mongwe ne are ke mo rekele icetropez eja p 6595 mo liquarama a gona ko eleaowaap bagarona,positive,True,2,16,Twitter
+sepedi_032,Sepedi,see what i mean hothwe ke nale pelo empi yanong ere ke robale,negative,True,2,13,Twitter
+sepedi_033,Sepedi,im craving a burger and i dont even like burgers yoh baloyi,positive,True,5,12,Twitter
+sepedi_034,Sepedi,the brown jersey e mo thusitse straight i suspect o rwele ka yona,positive,True,2,13,Twitter
+sepedi_035,Sepedi,sester just 1 glass fela then back inside the casket i will save you a glass ha go nale mokete ha moagi,neutral,True,6,21,Twitter
+sepedi_036,Sepedi,aowa dini mpya ya go di kgotlha so,negative,True,1,8,Twitter
+sepedi_037,Sepedi,whos that guy a klapuweng jwalo,positive,True,2,6,Twitter
+sepedi_038,Sepedi,its over palesayou broking me up utlwa fela aii fotsek,positive,True,1,10,Twitter
+sepedi_039,Sepedi,ka dlala maybe ill give you a chance mara ro fella moyeng shame,positive,True,3,13,Twitter
+sepedi_040,Sepedi,hes phakathi inside this guy o sebete,positive,True,1,7,Twitter
+sepedi_041,Sepedi,ake happy ka mokhaba waka,positive,True,1,5,Twitter
+sepedi_042,Sepedi,a nyaka gore ntoto ya gago,positive,True,1,6,Twitter
+sepedi_043,Sepedi,shemenwa meetsesorry aker nanaputsu putsu sorry neh nanamchwaa,neutral,True,1,8,Twitter
+sepedi_044,Sepedi,its 40 percent degrees in the northern cape so ke photse ka ntho tse soft,positive,True,2,14,Twitter
+sepedi_045,Sepedi,dude ke tshetse petrol gore ke bake today okare ke tshela matipane,positive,True,1,12,Twitter
+sepedi_046,Sepedi,yes yena o fihlile diseleng,positive,True,1,5,Twitter
+sepedi_047,Sepedi,monna waka as i follow you for a follow back,neutral,True,3,10,Twitter
+sepedi_048,Sepedi,the real meaning of that khuli track tswa da,neutral,True,2,9,Twitter
+sepedi_049,Sepedi,kore even when you go to groove ka pelo e bohloko your dance moves will show hle,negative,True,4,17,Twitter
+sepedi_050,Sepedi,lol gape company is a whole different thing,neutral,True,3,8,Twitter
+sepedi_051,Sepedi,everyone that lives in pretoria must go to bed at 1am please,negative,True,3,12,Twitter
+sepedi_052,Sepedi,ayii i doubt ehlile ke batho ba mona ba lesapo kea li ja ntho tseno otsebe,negative,True,1,16,Twitter
+sepedi_053,Sepedi,and nowadays ha ho sana bo pompo tsane tsa metseng most people are now using wasco taps,neutral,True,4,17,Twitter
+sepedi_054,Sepedi,le mo kwele amo he said till death,positive,True,1,8,Twitter
+sepedi_055,Sepedi,tanki ke ene nneng a hlokahala eseng mo gongwe mo,neutral,True,1,10,Twitter
+sepedi_056,Sepedi,ao ntate ice i feel you my nigga this is the sweetest thing honestly and im a proud senyofu,neutral,True,9,19,Twitter
+sepedi_057,Sepedi,imma need your account suspended ngeke phela,positive,True,2,7,Twitter
+sepedi_058,Sepedi,talk about deleting the effort in one bite ke tswa pelo gore,positive,True,1,12,Twitter
+sepedi_059,Sepedi,gape ato just wants motogo,negative,True,1,5,Twitter
+sepedi_060,Sepedi,and its for free keha ke hakgametse gore le nna,positive,True,1,10,Twitter
+sepedi_061,Sepedi,didnt we all stop owning underwear a long time ago kapa ke nna feela,neutral,True,2,14,Twitter
+sepedi_062,Sepedi,moya used to be my track,positive,True,2,6,Twitter
+sepedi_063,Sepedi,so true malema is always trying to remain relevant for all the wrong reasons,positive,True,4,14,Twitter
+sepedi_064,Sepedi,i hope today is wonderful and that youre able to rest burnout is hard af love ya,negative,True,8,17,Twitter
+sepedi_065,Sepedi,eish yeah neah mare i will talk about it more ke excited,negative,True,5,12,Twitter
+sepedi_066,Sepedi,sis tamara and thato deserved to be in the top 5,positive,True,3,10,Twitter
+sepedi_067,Sepedi,kgadi ya borena o kare lo swara 16years this year mowe gona,positive,True,1,12,Twitter
+sepedi_068,Sepedi,his nails were long and very dirty okare a tlete ka letsopa,neutral,True,4,12,Twitter
+sepedi_069,Sepedi,lona nthoe weathera ele etsang yona cannot be didnt,positive,True,2,9,Twitter
+sepedi_070,Sepedi,gore o nne mo koloing even if we are going the same direction go ntshiwa ma 40 pula le imetsa di koloi,negative,True,4,21,Twitter
+sepedi_071,Sepedi,so youre gonna suffer until you go back complaining go kase thue babe,negative,True,2,13,Twitter
+sepedi_072,Sepedi,i hardly even eat their chicken to the bone,negative,True,3,9,Twitter
+sepedi_073,Sepedi,a go tla duduediwa ka nako go le kung fu,neutral,True,1,10,Twitter
+sepedi_074,Sepedi,ke rile ere kego rekele yona on your birthday and you wanted books dula ledi books tseo,negative,True,3,17,Twitter
+sepedi_075,Sepedi,rema runaway what a masterpiece,negative,True,2,5,Twitter
+sepedi_076,Sepedi,so they informed biggie thats why he played music signaling they to calm down yoh biggie lala,neutral,True,5,17,Twitter
+sepedi_077,Sepedi,maele a batswadi ao boloke pelong ya gago apare boka pheta mo molaleng,positive,True,1,13,Twitter
+sepedi_078,Sepedi,she sees all my tweets ke follower so hale fitlhe nix ntho entle ya praisiwa,positive,True,3,15,Twitter
+sepedi_079,Sepedi,le ene are o go rata thata auntiza wa overseas,positive,True,1,10,Twitter
+sepedi_080,Sepedi,nyaya tsala o mo fetotse sematla go lekanee be asala amo dira baby sitter,neutral,True,1,14,Twitter
+sepedi_081,Sepedi,was mpho the last one,negative,True,2,5,Twitter
+sepedi_082,Sepedi,with salt not sugar nana no,negative,True,2,6,Twitter
+sepedi_083,Sepedi,reasoning ae tsoge this side,positive,True,1,5,Twitter
+sepedi_084,Sepedi,tumelo wa teng ke sure ha monate wherever she is i woke up to drunk vns,negative,True,3,16,Twitter
+sepedi_085,Sepedi,happy birthday broi hope you enjoy your day,positive,True,3,8,Twitter
+sepedi_086,Sepedi,o tsamaye o ye gona kouwe sesi a gago,negative,True,1,9,Twitter
+sepedi_087,Sepedi,dont blame you katis artwork is simple phenomenal and i will never get tired of saying it,negative,True,9,17,Twitter
+sepedi_088,Sepedi,makhadzi on saturday night sunday morning i have a photo shoot ha gona go iponatsa akere,positive,True,5,16,Twitter
+sepedi_089,Sepedi,ha o rutile mmaabo you are set,positive,True,2,7,Twitter
+sepedi_090,Sepedi,always the caseimagine kara di millions wa jo kgetha 1,positive,True,2,9,Twitter
+sepedi_091,Sepedi,one thing about mpho she will make you cry,negative,True,3,9,Twitter
+sepedi_092,Sepedi,yo aowa this is beyond shocking,negative,True,2,6,Twitter
+sepedi_093,Sepedi,make it 2 gore pelo e wele,positive,True,1,6,Twitter
+sepedi_094,Sepedi,motho a ingadise a ntse a itse gore wa go kolota mxm motswana,neutral,True,3,13,Twitter
+sepedi_095,Sepedi,never this is my life aibo mangyeka lento what else can i do my limits go as far as alcohol,positive,True,9,20,Twitter
+sepedi_096,Sepedi,a flower si beautiful naledi mogadime,positive,True,1,6,Twitter
+sepedi_097,Sepedi,lena le nale drama but same,negative,True,1,6,Twitter
+sepedi_098,Sepedi,musa khawula drops a bomb and moves on to the next storygana mathatadrops allegedly then moves on,negative,True,3,17,Twitter
+sepedi_099,Sepedi,potso e thata hakaalo it is what it is man,neutral,True,5,10,Twitter
+sepedi_100,Sepedi,ke na le dikoloto lelo please eseng wena ebile,positive,True,1,9,Twitter
+sepedi_101,Sepedi,di a bowa ko mjolofontein,neutral,True,1,5,Twitter
+sepedi_102,Sepedi,ke tsile ke tla ke goa ke opela mo 1 otlhe and nowmy headaches likei dont its painful that one i know,positive,True,4,21,Twitter
+sepedi_103,Sepedi,but ntate modimo le ena tlamega a bone plan la nka zama kabo 2 million nje,positive,True,2,15,Twitter
+sepedi_104,Sepedi,mpandlane o stlaela mos wena you cant even tell gore ntja e is not an eff member or o hloka borstol,negative,True,6,21,Twitter
+sepedi_105,Sepedi,you better ke bone ore ke ka july ill be waiting,neutral,True,4,11,Twitter
+sepedi_106,Sepedi,kenna fela or yhoo modimo forgive me,neutral,True,2,7,Twitter
+sepedi_107,Sepedi,watseba bothata a se small odds ke wager mzala wager 10tao o tla bona gore 143 ase small odds,negative,True,1,18,Twitter
+sepedi_108,Sepedi,bona this is the most south african thing,positive,True,4,8,Twitter
+sepedi_109,Sepedi,i think swanetse ro bona optometrist,negative,True,1,6,Twitter
+sepedi_110,Sepedi,i have mathata ba teng mo lapeng ya go tla ba le ha,positive,True,2,13,Twitter
+sepedi_111,Sepedi,le embalenhle ekene letse moo we struggling nje ka ho hema,negative,True,1,11,Twitter
+sepedi_112,Sepedi,bathong the season just started,neutral,True,2,5,Twitter
+sepedi_113,Sepedi,i saw mo di comments ek het net gesien ke lesepa la motho,positive,True,1,13,Twitter
+sepedi_114,Sepedi,mme a bolela nnete casemiro ga e kake a simolola fa pele ga scott,neutral,True,2,14,Twitter
+sepedi_115,Sepedi,they will not sustain that hara tlala ee kapa ke liphallello li test kids tseo,neutral,True,4,15,Twitter
+sepedi_116,Sepedi,mme kana bagolo saw it coming thats why ba rata go relocatela masimo,negative,True,2,13,Twitter
+sepedi_117,Sepedi,so she owned a fire arm skaba nyata bo magogo ba jerrnagana fela a go betha ka bullet marago aa eehh,negative,True,4,21,Twitter
+sepedi_118,Sepedi,lol nna ke no homola ka gore ge nka bolela,neutral,True,2,10,Twitter
+sepedi_119,Sepedi,hao chomie ya ka kwena o bolelang so,negative,True,1,8,Twitter
+sepedi_120,Sepedi,mara this year reka loka ko wild waters ne,neutral,True,1,9,Twitter
+sepedi_121,Sepedi,foetsek wena i dont appreciate you,positive,True,3,6,Twitter
+sepedi_122,Sepedi,wa bo o ntshimolla akere a ntse a lela jaana,negative,True,2,10,Twitter
+sepedi_123,Sepedi,i was probably like this maabane luckily i was home,negative,True,7,10,Twitter
+sepedi_124,Sepedi,nadia yena yoh she wants diamond and shes so mad at zari coz she feels she can never be better than her,negative,True,9,22,Twitter
+sepedi_125,Sepedi,yewena o marete o re mosadi waka wetsa jwang ke tlao shapa ka klaapa san will smith 2022,negative,True,1,17,Twitter
+sepedi_126,Sepedi,ska la mo reetsa go letšatši bomma,neutral,True,1,9,Twitter
+sepedi_127,Sepedi,its better she watches on tv because o rata ho tobetha next thing she is sending people messages,positive,True,5,18,Twitter
+sepedi_128,Sepedi,i dont know who that man ishes so grown mpho about her son,negative,True,5,13,Twitter
+sepedi_129,Sepedi,aowa banna succession planning ereng a sa berekiswe,negative,True,1,8,Twitter
+sepedi_130,Sepedi,ge le ka hlakana le bopapa mo strateng le ba betheng ka maswika please,neutral,True,1,14,Twitter
+sepedi_131,Sepedi,eh i need a car that does a to z fela nna,negative,True,5,12,Twitter
+sepedi_132,Sepedi,bone motho a re tuku or lesela ah,negative,True,2,8,Twitter
+sepedi_133,Sepedi,i fully relate ke gore its every night being a sleepless one smh,negative,True,4,13,Twitter
+sepedi_134,Sepedi,o maka a ke bone yours,negative,True,2,6,Twitter
+sepedi_135,Sepedi,o kile a re his life is danger,neutral,True,2,8,Twitter
+sepedi_136,Sepedi,i hope he was hey,neutral,True,3,5,Twitter
+sepedi_137,Sepedi,a gona bothata ka network mpumi mara generally go iragalang ngi chazele ou,negative,True,2,13,Twitter
+sepedi_138,Sepedi,shoki if youre dragging me go senyegile,negative,True,2,7,Twitter
+sepedi_139,Sepedi,mare ha e na jaive ame tshelete o ne ke a batla,negative,True,1,12,Twitter
+sepedi_140,Sepedi,you guys never stop nehke eng le batla go thibiwa ke lewatle e monate mo mesong,positive,True,2,16,Twitter
+sepedi_141,Sepedi,ke gatile monwana gore iyoo aowa the ke ta ira studio kwano aah,negative,True,1,13,Twitter
+sepedi_142,Sepedi,nna a ke tsebe se salang i got my meal vouchers re kgotse nou,negative,True,3,14,Twitter
+sepedi_143,Sepedi,hee banna you in the east thank you,negative,True,4,8,Twitter
+sepedi_144,Sepedi,funda phela nawe i cant repeat myself,negative,True,2,7,Twitter
+sepedi_145,Sepedi,when i speak about ngwana wa bomma wa mozulu ke andilempisane,neutral,True,2,11,Twitter
+sepedi_146,Sepedi,team thato tamara and terry please vote for gash or mpho wabadimo only,neutral,True,4,13,Twitter
+sepedi_147,Sepedi,not maputla looking like ghabadia,negative,True,2,5,Twitter
+sepedi_148,Sepedi,problem yagao o rata sunnyside too much,positive,True,2,7,Twitter
+sepedi_149,Sepedi,happy birthday le gola o gole hey,positive,True,1,7,Twitter
+sepedi_150,Sepedi,yoh wa bora that guy omo lahle,positive,True,1,7,Twitter
+sepedi_151,Sepedi,ke mo joetsa nnete gore its one of the girlies,neutral,True,1,10,Twitter
+sepedi_152,Sepedi,on kamo phela is a rumor or an actual thing,negative,True,4,10,Twitter
+sepedi_153,Sepedi,ao chris o bloma ekhaya kapa home as in ur palace,neutral,True,1,11,Twitter
+sepedi_154,Sepedi,we are doing it for tsheleteba today akere,negative,True,4,8,Twitter
+sepedi_155,Sepedi,i was tempted to say ba opela dihela ba letile moruti but that would have been the end of me,neutral,True,9,20,Twitter
+sepedi_156,Sepedi,unprovoked and then tlebe le bolela ka di be kindle rude gore yeses,neutral,True,2,13,Twitter
+sepedi_157,Sepedi,i love kids mare yoh bana ba tla o kopanya hloho hleng,neutral,True,2,12,Twitter
+sepedi_158,Sepedi,have you seen the price for bone marrow that on its own is a startertone down the attack a bit,positive,True,8,20,Twitter
+sepedi_159,Sepedi,hoja ampa a itulela hae,negative,True,1,5,Twitter
+sepedi_160,Sepedi,ba tena kudu they are desperate to ruin her name,positive,True,2,10,Twitter
+sepedi_161,Sepedi,yoh ngwana batho eleng o complaina kgopela le buleleng dricks tlheng a ye stadium,neutral,True,1,14,Twitter
+sepedi_162,Sepedi,thats why kene ke thapa ka metsi a sediba a kopantsweng le mmu wa mabitla neke sa batle one masepa a,negative,True,4,21,Twitter
+sepedi_163,Sepedi,lol wena otlamo kgona ke sho,positive,True,1,6,Twitter
+sepedi_164,Sepedi,na yu sabi wetin i no sabi,positive,True,2,7,Twitter
+sepedi_165,Sepedi,id do anything for boroko right now literally anything,positive,True,2,9,Twitter
+sepedi_166,Sepedi,definition of this queen in particularbeautiful intelligent positive uplifting honestloyalnaturalwell spoken talented vibesloverparty starter etc,negative,True,1,15,Twitter
+sepedi_167,Sepedi,kgale ko gopotse chomi my friend,neutral,True,2,6,Twitter
+sepedi_168,Sepedi,how do i register for cellphone banking tshelete gaa report kana,neutral,True,4,11,Twitter
+sepedi_169,Sepedi,a happy wild one to leano,negative,True,2,6,Twitter
+sepedi_170,Sepedi,eyy ulimele loya sisi i can imagine how deep and painful the kinda healing she needs,positive,True,6,16,Twitter
+sepedi_171,Sepedi,lol nah e ka se go tshware cos setse o a tseba nou,positive,True,2,13,Twitter
+sepedi_172,Sepedi,sorry wa papa ska nshapa asomblif,neutral,True,1,6,Twitter
+sepedi_173,Sepedi,motho a ska nrwaka ka taxing kere ke bapadisa ngwana kere nah ntatae o kae,neutral,True,1,15,Twitter
+sepedi_174,Sepedi,loko u huma ka yena a sunga ku ku sala ndzaku,positive,True,1,11,Twitter
+sepedi_175,Sepedi,a re nweng ka moka,positive,True,1,5,Twitter
+sepedi_176,Sepedi,tsogang bathong ke nako yago pretender nkare everything its ok,neutral,True,1,10,Twitter
+sepedi_177,Sepedi,that road belong to mankweng taxi association but seshego think theyre the ownersof that mall,negative,True,4,15,Twitter
+sepedi_178,Sepedi,lol yah ke lona lebaka leo tanki hle ngwaneso,positive,True,1,9,Twitter
+sepedi_179,Sepedi,bathong vroeg sonkebe sale a re sebela rona batho ba zeerust,neutral,True,1,11,Twitter
+sepedi_180,Sepedi,emela tomorrow le tshele eo ya gao,negative,True,1,7,Twitter
+sepedi_181,Sepedi,i am also broke xem akitse if motho akare tlare jole ko bereka byang,neutral,True,3,14,Twitter
+sepedi_182,Sepedi,lrt waitsi at this point retla se bafetsi batho ba bo ntate,positive,True,1,12,Twitter
+sepedi_183,Sepedi,imagine a pilot stealing 300nogal 300 ya ex convict ok le dula kae cos ke worried le tswa kasi efeng seshego neh,neutral,True,2,21,Twitter
+sepedi_184,Sepedi,suzan o re thotse john ele snoop dog a fana ka warning,neutral,True,1,12,Twitter
+sepedi_185,Sepedi,ke bone batho koo groovng ba gautsana mo koloing and come back like nothing happened rent free,negative,True,2,17,Twitter
+sepedi_186,Sepedi,tapeapetapsatlaprapsta papa perestpearstareleappalplasterstapleralteraltersplatealertpaletpatelpearlrateratesspelttearsearspartsaltim beyond a genius naledi mogadime,neutral,True,1,8,Twitter
+sepedi_187,Sepedi,peace a se dilo tsao nhe,neutral,True,1,6,Twitter
+sepedi_188,Sepedi,happy birthday o gole o lekane le tlou,negative,True,1,8,Twitter
+sepedi_189,Sepedi,hai pule ema pele tuulets just drink,positive,True,1,7,Twitter
+sepedi_190,Sepedi,bo im 25 no kidsplease write mileage of ur alsolena le wetsa batho kadi swimming pool shame,positive,True,1,16,Twitter
+sepedi_191,Sepedi,i wonder ke mang o mo chosetxang,positive,True,1,7,Twitter
+sepedi_192,Sepedi,bathong ngwana o goroga ka setu a tswa puerto rico,negative,True,1,10,Twitter
+sepedi_193,Sepedi,in that case ka moka ga rena a reyeng ga monokami,neutral,True,2,11,Twitter
+sepedi_194,Sepedi,o nyaka a fie ke mollo even better,neutral,True,2,8,Twitter
+sepedi_195,Sepedi,me passing ga chuene going back to polokwane,neutral,True,1,8,Twitter
+sepedi_196,Sepedi,akere o ne o sa batle you were organising for di chomi tsa gago,positive,True,2,14,Twitter
+sepedi_197,Sepedi,were rocking with thato immaculate mokoena biggies favourite cup of t,neutral,True,1,11,Twitter
+sepedi_198,Sepedi,slade sa batho se robetse is the funniest shit ive ever heard on a twitter space,neutral,True,3,16,Twitter
+sepedi_199,Sepedi,garteine hela selo sela please,positive,True,1,5,Twitter
+sepedi_200,Sepedi,why e na le meriri,neutral,True,1,5,Twitter
+sepedi_201,Sepedi,lol tjoo bathong wena wa rasa ai byyee nagana fela porridge ke ya bana,positive,True,1,14,Twitter
+sepedi_202,Sepedi,for someone who spends a lot of time on facebook this one has zero posts and photos on facebookprofile ya gagwe e kare sepoko,negative,True,5,24,Twitter
+sepedi_203,Sepedi,ebe ba go botsise gore why o rata di sugar mommy,positive,True,1,11,Twitter
+sepedi_204,Sepedi,tjo lona our helper o tswa lesotho she been in my case about how am i this old ke sa tsebe ho ritela the shade,neutral,True,9,25,Twitter
+sepedi_205,Sepedi,i hope you learn to make it on ur own,negative,True,3,10,Twitter
+sepedi_206,Sepedi,they made sure gore no one misses it,neutral,True,3,8,Twitter
+sepedi_207,Sepedi,serati sa ka mo gae or ra chommie ya ka it means kgale o ba eyile,neutral,True,2,16,Twitter
+sepedi_208,Sepedi,nnete ho tla loka mokgotsi have an awesome day,negative,True,2,9,Twitter
+sepedi_209,Sepedi,out of all that qvs exit saddens me the most also with dinky leaving the game so soon aowa we have suffered with this season hle,positive,True,9,26,Twitter
+sepedi_210,Sepedi,a re mpho is leaving tomorrow bathong joke e kana,negative,True,3,10,Twitter
+sepedi_211,Sepedi,beneran mau gabung isinya absurd ini haha syarat utama cm hard culer,negative,True,2,12,Twitter
+sepedi_212,Sepedi,maybe ntate sam o tla e etsa tjenahaele ee,neutral,True,1,9,Twitter
+sepedi_213,Sepedi,hi shaun hope you have something nice planned for the weekend,positive,True,3,11,Twitter
+sepedi_214,Sepedi,eish aowa ere gona le lebale,positive,True,1,6,Twitter
+sepedi_215,Sepedi,hha love voted kanti asichubeki lol aybo phela were fighting thina no alliance for us recruite on your watsup tell your family and friends please,neutral,True,11,25,Twitter
+sepedi_216,Sepedi,ke dutse ke tlou mokgareng its not even kotapass nine,positive,True,1,10,Twitter
+sepedi_217,Sepedi,especially ga ke bona bashimoney thank you my nkels,positive,True,3,9,Twitter
+sepedi_218,Sepedi,well get to mogodu and masonja in a bitmorogo is what,neutral,True,4,11,Twitter
+sepedi_219,Sepedi,le yena why is she looking at the cards as if they have minds of their own,negative,True,8,17,Twitter
+sepedi_220,Sepedi,so very short lisa we hope your beautiful family will continue supporting each other,positive,True,6,14,Twitter
+sepedi_221,Sepedi,people here lie aowa r 5k cant give you flights 4 star accommodation and all inclusive package thats impossible,negative,True,4,18,Twitter
+sepedi_222,Sepedi,nota is saying nasty c ke ngwana ke ngwana,neutral,True,1,9,Twitter
+sepedi_223,Sepedi,haibo thatos ball fell just like that,neutral,True,3,7,Twitter
+sepedi_224,Sepedi,lols thats why o type le maaka ke dilo te o di naganang,negative,True,1,13,Twitter
+sepedi_225,Sepedi,ja nor ke boile makihutjo a fedile,positive,True,1,7,Twitter
+sepedi_226,Sepedi,so now we have to twang kamoka garena lephela bohloko mos mo thwitha,neutral,True,4,13,Twitter
+sepedi_227,Sepedi,please take a video ke bone mpe ke fole,negative,True,2,9,Twitter
+sepedi_228,Sepedi,nna only theo and gopolang are dmng me ba nyaka di slip tsa betway,positive,True,4,14,Twitter
+sepedi_229,Sepedi,ge wena ose sharp o baisa le nna my mom really feels my pain every single time,neutral,True,3,17,Twitter
+sepedi_230,Sepedi,lmao used her as a meme man onale swele ha,neutral,True,1,10,Twitter
+sepedi_231,Sepedi,batho ba modimo whats going on here,positive,True,1,7,Twitter
+sepedi_232,Sepedi,modimo o bone gabotse gore o tlo re tshwenya a se go fe yona,neutral,True,1,14,Twitter
+sepedi_233,Sepedi,yho lala there is no timetable,neutral,True,3,6,Twitter
+sepedi_234,Sepedi,bathong why didnt you just say iron deficiency,neutral,True,3,8,Twitter
+sepedi_235,Sepedi,ufebe u sis womfaz wakhe but she blames umfetjwa uthi yena he was drunk,negative,True,4,14,Twitter
+sepedi_236,Sepedi,nkase kgone hotla abutaka wale nyaopes oteng so ke gadile borotho,positive,True,1,11,Twitter
+sepedi_237,Sepedi,ga re tsebe maybe wa claima,positive,True,1,6,Twitter
+sepedi_238,Sepedi,fi mett jamet jamet jamet jamet puoll how i read ur hazelezclosest rate 110 kita sepupu an di rl beb see you on my tl kadang,positive,True,5,25,Twitter
+sepedi_239,Sepedi,sbwl one day when at that part of the world just to meet the legendary ntate enos mafokate,neutral,True,5,18,Twitter
+sepedi_240,Sepedi,you deserve it all mababe naledi mogadime,neutral,True,2,7,Twitter
+sepedi_241,Sepedi,haha plus gwa fisha lmao,neutral,True,1,5,Twitter
+sepedi_242,Sepedi,maybe shes making sure gori di kgomo tsa family di sala ko lapeng,neutral,True,2,13,Twitter
+sepedi_243,Sepedi,ntate mokoena mohatsa mme mmalethabo mokoena aka lerato la pelo ena ya ka lehakwe la pelo ya kantata lethabo i love you hubby,negative,True,3,23,Twitter
+sepedi_244,Sepedi,you guys are just a bunch of harlots aowa,positive,True,4,9,Twitter
+sepedi_245,Sepedi,somebody needs to teach me thisi have never ever prepared for a race like this or ke ntho tsa dielite,neutral,True,7,20,Twitter
+sepedi_246,Sepedi,happy birthday ntwana yami makunyiwee once ha re beseng nama banna ha re nyofeng meat on you braai stand on me,negative,True,3,21,Twitter
+sepedi_247,Sepedi,a re bakgotsi ba baka ketloba kenya ka plastiking keba behelle kwana,negative,True,1,12,Twitter
+sepedi_248,Sepedi,lmao happy birthday doc i was saying nna ke ikopela mesese ya gago but mesese came as message,neutral,True,4,18,Twitter
+sepedi_249,Sepedi,mafahla a fela net so,neutral,True,2,5,Twitter
+sepedi_250,Sepedi,i think i blocked him this other time a bolela matlakala,positive,True,4,11,Twitter
+sepedi_251,Sepedi,maybe ke anxiety e mona e fihlang before you get what youve always wantedtelling you it isnt,negative,True,6,17,Twitter
+sepedi_252,Sepedi,ko pela the campus ne ke tlha mallong,positive,True,1,8,Twitter
+sepedi_253,Sepedi,life is boring without football bona motho o robala early yang,negative,True,1,11,Twitter
+sepedi_254,Sepedi,it was wonderful you have so much passion honey its lovely no need to apologize hope you have a lovely friday,positive,True,10,21,Twitter
+sepedi_255,Sepedi,abo bani labo bastshele on how do you even find a catch,negative,True,4,12,Twitter
+sepedi_256,Sepedi,bago hurteh o be o bone ke my friend okwe a re always pelo bohloko wena shem,negative,True,5,17,Twitter
+sepedi_257,Sepedi,bathong amo leave me alone please,positive,True,2,6,Twitter
+sepedi_258,Sepedi,u are pleading for mercy for our boys morena,positive,True,2,9,Twitter
+sepedi_259,Sepedi,i wore something similar to this last night ko monateng yhoo le mpone gape le mpolayeng,neutral,True,3,16,Twitter
+sepedi_260,Sepedi,lol kgang ya gore mahikeng e leswe e le hiritlhile neh,positive,True,1,11,Twitter
+sepedi_261,Sepedi,guest house for what katlego,positive,True,1,5,Twitter
+sepedi_262,Sepedi,cant we get his acct suspended please as a moruti shouldnt he be posting bible verses only,positive,True,7,17,Twitter
+sepedi_263,Sepedi,mpho hang those clothes lala and dont say a thing,neutral,True,4,10,Twitter
+sepedi_264,Sepedi,yes ne gole monate tota,positive,True,1,5,Twitter
+sepedi_265,Sepedi,the problem is dintwa ga di fele,positive,True,3,7,Twitter
+sepedi_266,Sepedi,ah bra tshepo ba re marete a rena,negative,True,1,8,Twitter
+sepedi_267,Sepedi,a go berekiweng we cant have batho ba ba sa batleng go dira dinamane,neutral,True,4,14,Twitter
+sepedi_268,Sepedi,melita is scared of meiki,negative,True,1,5,Twitter
+sepedi_269,Sepedi,i miss thato bathong am now bored phela she was like my housemate,neutral,True,7,13,Twitter
+sepedi_270,Sepedi,the removal of all over the age 56le ba eseng cabinet allof kamoka zonke,neutral,True,2,14,Twitter
+sepedi_271,Sepedi,hppy brthday more faith and hope,positive,True,2,6,Twitter
+sepedi_272,Sepedi,offcourse they will break into a sefela yhoo cant wait to see my,positive,True,6,13,Twitter
+sepedi_273,Sepedi,eish wenaa ebile ka tlogela,negative,True,1,5,Twitter
+sepedi_274,Sepedi,dan tshanda ne a tlhokahala ntse o ntshwarisitse letlapa,negative,True,1,9,Twitter
+sepedi_275,Sepedi,lmao whats the alternative ba mo bolaye,neutral,True,1,7,Twitter
+sepedi_276,Sepedi,nna motho a ka tseba gore ke nale black belt,negative,True,1,10,Twitter
+sepedi_277,Sepedi,so the trio bayakhala about food coz the ladies are refusing to cook and bona balambile abanazandla yini who will cook for them next week,negative,True,8,25,Twitter
+sepedi_278,Sepedi,futhe angaaowalang kahle a fane a tata yinga tlakuleki,positive,True,2,9,Twitter
+sepedi_279,Sepedi,damn antoine griezmanns touches reminds me of george lebese nice touches on the ball,positive,True,2,14,Twitter
+sepedi_280,Sepedi,first time in my life a gent im with goes out partying and i dont get shxt worried nah o ntsa etsang le bo mang wo,neutral,True,5,26,Twitter
+sepedi_281,Sepedi,this is not the finale i have imagined ahh shem e padile season 2 we dont need season 3 please,neutral,True,9,18,Twitter
+sepedi_282,Sepedi,i hope she doesnt forget,positive,True,2,5,Twitter
+sepedi_283,Sepedi,youre such a cool oke ong chazela gore o rata ditaba,negative,True,1,11,Twitter
+sepedi_284,Sepedi,whats that black thing on his lips and under his nose,neutral,True,2,11,Twitter
+sepedi_285,Sepedi,thato fans lets gather right here to appreciate her thato appreciation,negative,True,1,11,Twitter
+sepedi_286,Sepedi,nka lela 40days and 40nights go tlhakana le gore le yone bolo ga ke e rate,neutral,True,1,16,Twitter
+sepedi_287,Sepedi,someone please refer me to a graphic designer that can edit youtube videos in joburg please,negative,True,6,16,Twitter
+sepedi_288,Sepedi,girls go through sht imagine being loyal to a married man bathong,negative,True,2,12,Twitter
+sepedi_289,Sepedi,halala o nale motho theres hope for me also,negative,True,1,9,Twitter
+sepedi_290,Sepedi,ehh ba ba matlhonyana a boroko ba yesess,positive,True,1,8,Twitter
+sepedi_291,Sepedi,also why did i read his name as idibala,positive,True,3,9,Twitter
+sepedi_292,Sepedi,ke pallwa ke gotsamaa kana i wont even make it to taung kamoso,neutral,True,2,13,Twitter
+sepedi_293,Sepedi,with 4 eyes mara o betha mang vele eff are last cowards those hooligans are only good in vandalism,negative,True,5,18,Twitter
+sepedi_294,Sepedi,my weekend starts on thursday so re tlo bolela monday ke re ke le botse esale ka pela,neutral,True,2,18,Twitter
+sepedi_295,Sepedi,ke nna owangwana o mongwe leon mongwe ke waka so haii ga ke batle sepe,positive,True,1,15,Twitter
+sepedi_296,Sepedi,from kgale actually but all i get is dissapointments,negative,True,3,9,Twitter
+sepedi_297,Sepedi,i have been searching for themke a rata joang,positive,True,4,9,Twitter
+sepedi_298,Sepedi,go fisa kae maar durban re bolawa ke serame so,negative,True,1,10,Twitter
+sepedi_299,Sepedi,gareth bale is gunna take us to qatar,neutral,True,2,8,Twitter
+sepedi_300,Sepedi,bona im ready to tackle it,negative,True,1,6,Twitter
