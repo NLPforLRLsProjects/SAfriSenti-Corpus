@@ -84,9 +84,11 @@ weighted avg       0.59      0.60      0.59      1800
 
 6. Mabokela, K. R., Primus, M., & Celik, T. (2025). Advancing sentiment analysis for low-resourced African languages using pre-trained language models. *PLOS ONE, 20*(6), e0325102. https://doi.org/10.1371/journal.pone.0325102
 
-# Citation
-If you use SAfriSenti-Corpus-Mini in your research, please cite it as follows:
+## Citation
 
+If you use **SAfriSenti-Corpus-Mini** in your research, please cite the relevant SAfriSenti publications as follows:
+
+```bibtex
 @inproceedings{mabokela2022safrisenti,
   author    = {Mabokela, Koena Ronny and Schlippe, Tim},
   title     = {A Sentiment Corpus for South African Under-Resourced Languages in a Multilingual Context},
@@ -114,8 +116,17 @@ If you use SAfriSenti-Corpus-Mini in your research, please cite it as follows:
   journal = {PLOS ONE},
   year    = {2025}
 }
+```
 
-# Recommended Acknowledgement
+## Recommended Dataset Citation
 
-If you use this dataset, you may also include the following acknowledgement:
-The authors acknowledge the SAfriSenti corpus development work and the native-language contributors and annotators who supported the creation and validation of sentiment resources for South African under-resourced languages.
+```bibtex
+@misc{mabokela2026safrisenti_mini,
+  author       = {Mabokela, Koena Ronny and Primus, Mpho and Celik, Turgay},
+  title        = {{SAfriSenti-Corpus-Mini}: SAfriSenti Multilingual Sentiment Corpus for South African Under-Resourced Languages},
+  year         = {2026},
+  howpublished = {GitHub repository},
+  note         = {Balanced verification sample containing 1,500 labelled sentiment records across Sepedi, Sesotho, Setswana, isiXhosa, and isiZulu},
+  url          = {https://github.com/NLPforLRLsProjects/SAfriSenti-Corpus}
+}
+```
