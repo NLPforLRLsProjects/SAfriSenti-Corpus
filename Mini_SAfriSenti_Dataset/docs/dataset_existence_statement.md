@@ -1,6 +1,6 @@
 # SAfriSenti Dataset Existence Statement
 
-I confirm that the SAfriSenti dataset exists and has been used across several peer-reviewed research outputs forming part of my PhD by publication.
+I confirm that the SAfriSenti dataset has been used across several peer-reviewed research outputs forming part of my PhD by publication.
 
 The dataset was developed for multilingual sentiment analysis in South African under-resourced languages. The initial SAfriSenti subset covered English, Sepedi, and Setswana and was introduced in the SIGUL 2022 paper. It was later extended to include Sesotho, isiXhosa, and isiZulu. The dataset contains sentiment labels for positive, negative, and neutral classes and includes both monolingual and code-switched social media text.
 
