@@ -118,12 +118,12 @@ If you use **SAfriSenti-Corpus-Mini** in your research, please cite the relevant
 }
 ```
 
-## Recommended Dataset Citation
+# Recommended Dataset Citation
 
 ```bibtex
 @misc{mabokela2026safrisenti_mini,
   author       = {Mabokela, Koena Ronny and Primus, Mpho and Celik, Turgay},
-  title        = {{SAfriSenti-Corpus-Mini}: SAfriSenti Multilingual Sentiment Corpus for South African Under-Resourced Languages},
+  title        = {{SAfriSenti-Corpus-Mini}: Multilingual Sentiment Corpus for South African Under-Resourced Languages},
   year         = {2026},
   howpublished = {GitHub repository},
   note         = {Balanced sample containing 1,500 labelled sentiment records across Sepedi, Sesotho, Setswana, isiXhosa, and isiZulu},
