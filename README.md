@@ -75,4 +75,4 @@ weighted avg       0.59      0.60      0.59      1800
 
 
 # Citation
-If you use SAfriSenti-Corpus-Mini in your research please cit it as follows:
+If you use SAfriSenti-Corpus-Mini in your research please cite it as follows:
