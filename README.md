@@ -68,12 +68,16 @@ weighted avg       0.75      0.74      0.74      5041```
            2       0.66      0.78      0.71       924
     accuracy                           0.60      1800
    macro avg       0.56      0.56      0.55      1800
-weighted avg       0.59      0.60      0.59      1800 ```
+weighted avg       0.59      0.60      0.59      1800
+ ```
+
+
+
 
 # References
 1. Mabokela, K. R., & Schlippe, T. (2022). A sentiment corpus for South African under-resourced languages in a multilingual context. In *Proceedings of SIGUL 2022 @ LREC 2022* (pp. 70–77). European Language Resources Association.
 
-2. Mabokela, K. R., Schlippe, T. (2022). AI for social good: Sentiment analysis to detect social challenges in South Africa. In *Artificial Intelligence Research* (pp. 309–322). Springer Nature Switzerland.
+2. Mabokela, K. R., Schlippe, T. (2022). AI for social good: Sentiment analysis to detect social challenges in South Africa. In *Southern African Conference for Artificial Intelligence Research* (pp. 309–322). Springer Nature Switzerland.
 
 3. Mabokela, K. R., Raborife, M., & Celik, T. (2023). Investigating sentiment-bearing words- and emoji-based distant supervision approaches for sentiment analysis. In *Proceedings of the Fourth Workshop on Resources for African Indigenous Languages (RAIL 2023)* (pp. 115–125). Association for Computational Linguistics. https://doi.org/10.18653/v1/2023.rail-1.13
 
