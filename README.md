@@ -1,7 +1,7 @@
 # SAfriSenti-Corpus-Mini
 A multilingual sentiment corpus for South African Under-Resourced languages.
 This corpus includes the following languages: Code-switched Dataset, English, Sepedi, Setswana, and Sesotho.
-We are working on extending the corpus to more languages like IsiZulu, Ndebele, Xhosa, Tshonga, Venda and Afrikaans.
+We are working on extending the corpus to more languages like isiZulu, isiNdebele, isiXhosa, Tshonga, TshiVenda and Afrikaans.
 We aim to release the dataset in December 2026.
 We also aim to collect tweets from nearby countries like Lesotho, Botswana, Swaziland and the Shona language for Zimbabwe
 
@@ -16,7 +16,7 @@ We provide the training data for each language, including code-switches, separat
 
 
 # Some Results with African LLMS
-```Accuracy: 0.7832796713667147
+``` Accuracy: 0.7832796713667147
 Classification Report:
                precision    recall  f1-score   support
 
